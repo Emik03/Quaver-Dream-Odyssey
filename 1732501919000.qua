@@ -81038,7 +81038,7 @@ TimingGroups:
     - StartTime: 108001.984375
       Multiplier: 22399.962890625
     - StartTime: 108002
-      Multiplier: -0.087060287594795227
+      Multiplier: 255999.90625
     - StartTime: 108002.015625
       Multiplier: -0.087060287594795227
     - StartTime: 108027
