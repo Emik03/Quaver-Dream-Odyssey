@@ -45,6 +45,8 @@ Bookmarks:
   Note: this exponential should have a long ease so that you can really feel the next note being moved
 - StartTime: 115202
   Note: cool affine goes here!
+- StartTime: 208002
+  Note: 'synth shrill starts here: we should make the SV even more intense starting here'
 - StartTime: 230402
   Note: needs bpm changes!!! we should save it for the end on whether we can actually chart the required 4 minutes
 CustomAudioSamples: []
