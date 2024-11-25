@@ -1,6 +1,7 @@
 AudioFile: audio.mp3
 SongPreviewTime: 63402
-BackgroundFile: ''
+BackgroundFile: Dream.png
+BannerFile: Odyssey.png
 MapId: -1
 MapSetId: -1
 Mode: Keys4
@@ -9,7 +10,7 @@ Artist: Kaval
 Source: Dream Odyssey (2022)
 Tags: esvt2024, everything sv tournament 2024, asterSSH
 Creator: Emik
-DifficultyName: ''
+DifficultyName: Aster vs. Emik's Singularity
 Description: Created at 1732501919000
 LegacyLNRendering: true
 BPMDoesNotAffectScrollVelocity: true
