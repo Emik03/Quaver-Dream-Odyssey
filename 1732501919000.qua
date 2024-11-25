@@ -43779,11 +43779,6 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
   TimingGroup: Buildup2
-- StartTime: 54302
-  Lane: 4
-  KeySounds: []
-  EditorLayer: 3
-  TimingGroup: Buildup2
 - StartTime: 54402
   Lane: 2
   KeySounds: []
@@ -49256,7 +49251,7 @@ HitObjects:
   EditorLayer: 2
   TimingGroup: Intro2_G
 - StartTime: 166402
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49266,7 +49261,7 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 166502
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49276,12 +49271,12 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 166702
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 166802
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49296,12 +49291,12 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 167002
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 167102
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49316,17 +49311,17 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 167302
-  Lane: 2
-  KeySounds: []
-  EditorLayer: 3
-  TimingGroup: Buildup1
-- StartTime: 167402
   Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
-- StartTime: 167502
+- StartTime: 167402
   Lane: 2
+  KeySounds: []
+  EditorLayer: 3
+  TimingGroup: Buildup1
+- StartTime: 167502
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49341,12 +49336,12 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 167702
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 167802
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49356,7 +49351,7 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 168002
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49366,7 +49361,7 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 168102
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49376,12 +49371,12 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 168302
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 168402
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49396,12 +49391,12 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 168602
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 168702
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49416,17 +49411,17 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 168902
-  Lane: 2
-  KeySounds: []
-  EditorLayer: 3
-  TimingGroup: Buildup1
-- StartTime: 169002
   Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
-- StartTime: 169102
+- StartTime: 169002
   Lane: 2
+  KeySounds: []
+  EditorLayer: 3
+  TimingGroup: Buildup1
+- StartTime: 169102
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49441,11 +49436,6 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 169302
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 3
-  TimingGroup: Buildup2
-- StartTime: 169402
   Lane: 2
   KeySounds: []
   EditorLayer: 3
@@ -49456,13 +49446,13 @@ HitObjects:
   KeySounds: []
   EditorLayer: 2
   TimingGroup: Buildup2
-- StartTime: 169502
-  Lane: 1
+- StartTime: 169402
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 169602
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49472,7 +49462,7 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 169702
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49482,12 +49472,12 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 169902
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 170002
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49502,12 +49492,12 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 170202
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 170302
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49522,17 +49512,17 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 170502
-  Lane: 2
-  KeySounds: []
-  EditorLayer: 3
-  TimingGroup: Buildup1
-- StartTime: 170602
   Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
-- StartTime: 170702
+- StartTime: 170602
   Lane: 2
+  KeySounds: []
+  EditorLayer: 3
+  TimingGroup: Buildup1
+- StartTime: 170702
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49547,12 +49537,12 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 170902
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 171002
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49562,7 +49552,7 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 171202
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49572,7 +49562,7 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 171302
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49582,12 +49572,12 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 171502
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 171602
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49602,12 +49592,12 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 171802
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 171902
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49706,12 +49696,12 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 173202
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 173302
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49726,7 +49716,7 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 173502
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49736,7 +49726,7 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 173602
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
@@ -49751,17 +49741,17 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 173802
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 173902
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 174002
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
@@ -49771,7 +49761,7 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 174102
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49786,7 +49776,7 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 174302
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49796,7 +49786,7 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 174402
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49811,12 +49801,12 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 174602
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 174702
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49826,12 +49816,12 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 174802
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 174902
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
@@ -49846,12 +49836,12 @@ HitObjects:
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 175102
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 175202
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
@@ -49866,7 +49856,7 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 175402
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
@@ -49876,7 +49866,7 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 175502
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
@@ -49886,7 +49876,7 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 175602
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
@@ -49901,182 +49891,182 @@ HitObjects:
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 175802
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 175902
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 176002
-  Lane: 4
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 176002
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 176102
-  Lane: 1
+  Lane: 4
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 176102
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 176202
-  Lane: 4
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 176202
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 176302
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 176302
-  Lane: 1
+  Lane: 4
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 176402
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 176402
-  Lane: 4
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 176502
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 176502
-  Lane: 1
+  Lane: 4
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 176602
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 176602
-  Lane: 4
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 176702
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 176702
-  Lane: 1
+  Lane: 4
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 176802
-  Lane: 4
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 176802
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 176902
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 176902
-  Lane: 1
+  Lane: 4
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 177002
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 177002
-  Lane: 4
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 177102
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 177102
-  Lane: 1
+  Lane: 4
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 177202
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
 - StartTime: 177202
-  Lane: 4
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 177302
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 177302
-  Lane: 1
+  Lane: 4
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 177402
-  Lane: 4
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 177402
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 1
-  TimingGroup: Buildup1
-- StartTime: 177502
   Lane: 2
   KeySounds: []
+  EditorLayer: 1
+  TimingGroup: Buildup1
+- StartTime: 177502
+  Lane: 3
+  KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup2
 - StartTime: 177502
-  Lane: 1
+  Lane: 4
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup2
 - StartTime: 177602
-  Lane: 4
+  Lane: 1
   KeySounds: []
   EditorLayer: 3
   TimingGroup: Buildup1
 - StartTime: 177602
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Buildup1
@@ -84108,29 +84098,51 @@ TimingGroups:
     - StartTime: 169201.984375
       Multiplier: 2.7518277168273926
     - StartTime: 169202
-      Multiplier: 2.7518277168273926
+      Multiplier: -233526.015625
+    - StartTime: 169202
+      Multiplier: 249094.421875
     - StartTime: 169202.015625
-      Multiplier: 2.7518754005432129
+      Multiplier: -20.120018005371094
+    - StartTime: 169214.5
+      Multiplier: 21.461353302001953
     - StartTime: 169227
-      Multiplier: 2.3066864013671875
+      Multiplier: -16.865070343017578
+    - StartTime: 169239.5
+      Multiplier: 17.989408493041992
     - StartTime: 169252
-      Multiplier: 1.9335185289382935
+      Multiplier: -14.136697769165039
+    - StartTime: 169264.5
+      Multiplier: 15.079144477844238
     - StartTime: 169277
-      Multiplier: 1.6207205057144165
+      Multiplier: -11.849711418151855
+    - StartTime: 169289.5
+      Multiplier: 12.639692306518555
     - StartTime: 169301.984375
-      Multiplier: -7378.8603515625
+      Multiplier: 142248.4375
     - StartTime: 169302
-      Multiplier: 7381.83984375
+      Multiplier: -151731.671875
+    - StartTime: 169302
+      Multiplier: -142270.21875
+    - StartTime: 169302
+      Multiplier: 151754.90625
     - StartTime: 169302.015625
-      Multiplier: 1.3585259914398193
+      Multiplier: -9.9327058792114258
+    - StartTime: 169314.5
+      Multiplier: 10.59488582611084
     - StartTime: 169327
-      Multiplier: 1.1387482881546021
+      Multiplier: -8.3258266448974609
+    - StartTime: 169339.5
+      Multiplier: 8.8808822631835938
     - StartTime: 169352
-      Multiplier: 0.95452547073364258
+      Multiplier: -6.9789032936096191
+    - StartTime: 169364.5
+      Multiplier: 7.4441633224487305
     - StartTime: 169377
-      Multiplier: 0.80010563135147095
+      Multiplier: -5.8498802185058594
+    - StartTime: 169389.5
+      Multiplier: 6.2398719787597656
     - StartTime: 169401.984375
-      Multiplier: -7782.72998046875
+      Multiplier: 0.19494831562042236
     - StartTime: 169402
       Multiplier: 7784.20068359375
     - StartTime: 169402.015625
@@ -95361,29 +95373,29 @@ TimingGroups:
     - StartTime: 169401.984375
       Multiplier: 7784.20068359375
     - StartTime: 169402
-      Multiplier: -7782.72998046875
+      Multiplier: 233481.90625
     - StartTime: 169402.015625
-      Multiplier: 0.80010563135147095
+      Multiplier: -23.999292373657227
     - StartTime: 169427
-      Multiplier: 0.95452547073364258
+      Multiplier: -21.237613677978516
     - StartTime: 169452
-      Multiplier: 1.1387482881546021
+      Multiplier: -16.510471343994141
     - StartTime: 169477
-      Multiplier: 1.3585259914398193
+      Multiplier: -9.1675825119018555
     - StartTime: 169501.984375
-      Multiplier: 7381.83984375
+      Multiplier: -248636.046875
     - StartTime: 169502
-      Multiplier: -7378.86083984375
+      Multiplier: -7396.732421875
     - StartTime: 169502.015625
-      Multiplier: 1.6207205057144165
+      Multiplier: 1.6324969530105591
     - StartTime: 169527
-      Multiplier: 1.9335185289382935
+      Multiplier: 16.924140930175781
     - StartTime: 169552
-      Multiplier: 2.3066864013671875
+      Multiplier: 38.068706512451172
     - StartTime: 169577
-      Multiplier: 2.7518754005432129
+      Multiplier: 66.744644165039062
     - StartTime: 169601.984375
-      Multiplier: 2.7518754005432129
+      Multiplier: 88.058486938476562
     - StartTime: 169602
       Multiplier: 2.7518754005432129
     - StartTime: 169602.015625
