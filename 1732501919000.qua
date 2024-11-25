@@ -15,9 +15,8 @@ InitialScrollVelocity: 1
 EditorLayers:
 - Name: Kick
   ColorRgb: 255,128,128
-Bookmarks:
-- StartTime: 25602
-  Note: next
+- Name: Snare
+  ColorRgb: 255,255,128
 CustomAudioSamples: []
 SoundEffects: []
 TimingPoints:
@@ -33,10 +32,18 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 13602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 15002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 15202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 16002
   Lane: 1
   KeySounds: []
@@ -45,10 +52,18 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 16802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 18202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 18402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 19202
   Lane: 1
   KeySounds: []
@@ -57,10 +72,18 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 20002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 21402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 21602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 22402
   Lane: 1
   KeySounds: []
@@ -69,10 +92,18 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 23202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 24602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 24802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 25602
   Lane: 1
   KeySounds: []
@@ -81,6 +112,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 26402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 27002
   Lane: 1
   KeySounds: []
@@ -89,6 +124,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 28002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 28602
   Lane: 1
   KeySounds: []
@@ -101,6 +140,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 29602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 30202
   Lane: 1
   KeySounds: []
@@ -109,6 +152,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 31202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 31802
   Lane: 1
   KeySounds: []
@@ -121,6 +168,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 32802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 33402
   Lane: 1
   KeySounds: []
@@ -129,6 +180,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 34402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 35002
   Lane: 1
   KeySounds: []
@@ -141,6 +196,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 36002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 36602
   Lane: 1
   KeySounds: []
@@ -149,6 +208,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 37602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 38202
   Lane: 1
   KeySounds: []
@@ -161,6 +224,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 39202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 41602
   Lane: 1
   KeySounds: []
@@ -169,6 +236,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 42402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 44602
   Lane: 1
   KeySounds: []
@@ -181,6 +252,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 45602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 48002
   Lane: 1
   KeySounds: []
@@ -189,6 +264,18 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 48802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
+- StartTime: 50802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
+- StartTime: 51002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 51202
   Lane: 1
   KeySounds: []
@@ -221,6 +308,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 54202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 54402
   Lane: 1
   KeySounds: []
@@ -249,10 +340,18 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-- StartTime: 57202
+- StartTime: 57002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 57102
+  Lane: 1
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 57202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 57602
   Lane: 1
   KeySounds: []
@@ -397,122 +496,242 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 63602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 64001
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 64802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 65402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 66402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 67202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 68002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 68602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 69602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 70402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 71202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 71802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 72802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 73602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 74402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 75002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 76002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 76802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 77602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 78202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 79202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 80002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 80802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 81402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 82402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 83202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 84002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 84602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 85602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 86402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 88802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 89602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 90402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 91202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 92002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 92802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 93602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 94402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 95202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 96002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 96802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 97602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 98402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 99202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 100002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 100602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 101602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 102402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 103202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 104002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 104802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 105602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 106402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 107202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 108002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 108802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 109602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 110402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 111202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 112002
   Lane: 1
   KeySounds: []
@@ -525,6 +744,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 141602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 142202
   Lane: 1
   KeySounds: []
@@ -533,6 +756,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 143202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 143802
   Lane: 1
   KeySounds: []
@@ -545,6 +772,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 144802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 145402
   Lane: 1
   KeySounds: []
@@ -553,6 +784,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 146402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 147002
   Lane: 1
   KeySounds: []
@@ -565,6 +800,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 148002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 148602
   Lane: 1
   KeySounds: []
@@ -573,6 +812,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 149602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 150202
   Lane: 1
   KeySounds: []
@@ -585,6 +828,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 151202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 151802
   Lane: 1
   KeySounds: []
@@ -593,6 +840,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 152802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 153402
   Lane: 1
   KeySounds: []
@@ -605,6 +856,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 154402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 156802
   Lane: 1
   KeySounds: []
@@ -613,6 +868,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 157602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 159802
   Lane: 1
   KeySounds: []
@@ -625,6 +884,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 160802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 163202
   Lane: 1
   KeySounds: []
@@ -633,6 +896,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 164002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 166402
   Lane: 1
   KeySounds: []
@@ -665,6 +932,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 169402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 169602
   Lane: 1
   KeySounds: []
@@ -701,6 +972,10 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 172402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 172802
   Lane: 1
   KeySounds: []
@@ -845,26 +1120,50 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 178802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 179202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 180002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 180602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 182002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 182402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 183202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 184002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 184802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 185602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 186402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 187002
   Lane: 1
   KeySounds: []
@@ -873,94 +1172,186 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 188002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 188802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 189602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 190202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 191202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 192002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 192802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 193402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 194402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 195202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 196002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 196602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 197602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 198402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 199202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 199802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 200802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 201602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 204002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 204802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 207202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 208002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 208802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 209602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 210402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 211202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 212002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 212802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 213602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 214402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 215202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 215802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 216802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 217602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 218402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 219202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 220002
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 220802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 221602
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 222402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 223202
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 224002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 224802
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 225602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+- StartTime: 226402
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 2
 - StartTime: 227202
   Lane: 1
   KeySounds: []
