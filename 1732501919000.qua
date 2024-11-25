@@ -7454,27 +7454,27 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 51602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 51702
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 51802
   Lane: 3
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 51902
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 52002
   Lane: 4
   KeySounds: []
@@ -7504,27 +7504,27 @@ HitObjects:
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 52402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 52502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 52602
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 52702
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 52802
   Lane: 2
   KeySounds: []
@@ -7554,27 +7554,27 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 53202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 53302
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 53402
   Lane: 3
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 53502
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 53602
   Lane: 4
   KeySounds: []
@@ -7604,33 +7604,33 @@ HitObjects:
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 54002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 54102
   Lane: 3
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 54202
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 54202
   Lane: 1
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 54302
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 54402
   Lane: 2
   KeySounds: []
@@ -7660,27 +7660,27 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 54802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 54902
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 55002
   Lane: 3
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 55102
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 55202
   Lane: 4
   KeySounds: []
@@ -7710,27 +7710,27 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 55602
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 55702
   Lane: 3
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 55802
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 55902
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 56002
   Lane: 2
   KeySounds: []
@@ -7760,27 +7760,27 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 56402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 56502
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 56602
   Lane: 3
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 56702
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 56802
   Lane: 4
   KeySounds: []
@@ -7821,25 +7821,25 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 57202
   Lane: 3
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 57302
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 57502
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 57602
   Lane: 1
   KeySounds: []
@@ -7859,17 +7859,17 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 57802
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 57902
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 58002
   Lane: 2
   KeySounds: []
@@ -7889,17 +7889,17 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 58202
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 58302
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 58402
   Lane: 4
   KeySounds: []
@@ -7919,17 +7919,17 @@ HitObjects:
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 58602
   Lane: 3
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 58702
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 58802
   Lane: 4
   KeySounds: []
@@ -7949,17 +7949,17 @@ HitObjects:
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 59002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 59102
   Lane: 3
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 59202
   Lane: 2
   KeySounds: []
@@ -7979,17 +7979,17 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 59402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 59502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 59602
   Lane: 2
   KeySounds: []
@@ -8009,17 +8009,17 @@ HitObjects:
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 59802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 59902
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 60002
   Lane: 4
   KeySounds: []
@@ -8039,17 +8039,17 @@ HitObjects:
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 60202
   Lane: 3
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 60302
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 60402
   Lane: 4
   KeySounds: []
@@ -8069,17 +8069,17 @@ HitObjects:
   Lane: 4
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 60602
   Lane: 3
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 60702
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 60802
   Lane: 4
   KeySounds: []
@@ -8094,12 +8094,12 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 60902
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 61002
   Lane: 4
   KeySounds: []
@@ -8114,12 +8114,12 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 61102
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 61202
   Lane: 4
   KeySounds: []
@@ -8134,12 +8134,12 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 61302
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 61402
   Lane: 4
   KeySounds: []
@@ -8154,12 +8154,12 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 61502
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 61602
   Lane: 4
   KeySounds: []
@@ -8174,12 +8174,12 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 61702
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 61802
   Lane: 4
   KeySounds: []
@@ -8194,12 +8194,12 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 61902
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 62002
   Lane: 4
   KeySounds: []
@@ -8214,12 +8214,12 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 62102
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 62202
   Lane: 4
   KeySounds: []
@@ -8234,12 +8234,12 @@ HitObjects:
   Lane: 2
   KeySounds: []
   EditorLayer: 3
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 62302
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Buildup1
+  TimingGroup: Buildup2
 - StartTime: 62402
   Lane: 4
   KeySounds: []
@@ -32900,3 +32900,9 @@ TimingGroups:
     - Multiplier: 1
     ScrollSpeedFactors: []
     ColorRgb: 139,233,253
+  Buildup2: !ScrollGroup
+    InitialScrollVelocity: 1
+    ScrollVelocities:
+    - Multiplier: 1
+    ScrollSpeedFactors: []
+    ColorRgb: 171,220,247
