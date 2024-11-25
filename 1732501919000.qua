@@ -44172,2122 +44172,2588 @@ HitObjects:
   EndTime: 179601
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 179201
   Lane: 2
   EndTime: 179601
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 179202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 179601
   Lane: 1
   EndTime: 180001
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 179602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 180001
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 180002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 180002
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 180601
   Lane: 4
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 180602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 180602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182001
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182002
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 182402
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182402
   Lane: 3
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 182502
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182502
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182602
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182602
   Lane: 3
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182802
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182802
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182902
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 182902
   Lane: 3
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183002
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183002
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183202
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183202
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 183302
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183302
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183402
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183402
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183602
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183602
   Lane: 3
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183702
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183702
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 183802
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184002
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 184102
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184102
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184202
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184202
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184402
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184502
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184502
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184602
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 184802
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 184802
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 184902
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 185002
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 185102
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 185202
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 185302
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 185402
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 185502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 185602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 185602
   Lane: 2
   EndTime: 186002
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 185602
   Lane: 4
   EndTime: 186002
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 186002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 186002
   Lane: 1
   EndTime: 186402
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 186402
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 186402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 186402
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 186702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 186702
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 187002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 187002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 187002
   Lane: 4
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 187302
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 187302
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 187602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 187602
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 187902
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 187902
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 187902
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 188002
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 188002
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 188002
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 188302
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 188602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 188602
   Lane: 4
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 188702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 188702
   Lane: 4
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 188802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 188802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 188802
   Lane: 4
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189002
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189102
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189102
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189302
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189302
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189402
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189602
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 189602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189602
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189802
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 189802
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 190002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 190002
   Lane: 4
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 190202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 190202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 190202
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 191202
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 191202
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 191302
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 191402
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 191502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 191602
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 191702
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 191802
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 191902
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 192002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 192002
   Lane: 2
   EndTime: 192402
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 192002
   Lane: 4
   EndTime: 192402
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 192402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 192402
   Lane: 1
   EndTime: 192802
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 192802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 192802
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 192802
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 193402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 193402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 193402
   Lane: 4
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 194402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 194402
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 194402
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 195302
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195302
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195402
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195402
   Lane: 3
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195602
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195602
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195702
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195802
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 195802
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196002
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196002
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 196102
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196102
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196202
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196202
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196402
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196502
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196502
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196602
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 196802
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196902
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 196902
   Lane: 3
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 197002
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 197002
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 197202
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 197202
   Lane: 3
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 197302
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 197302
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 197402
   Lane: 3
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 197402
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 197602
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 197602
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 197702
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 197802
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 197902
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 198002
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 198102
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 198202
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 198302
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 198402
   Lane: 4
   EndTime: 198802
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 198402
   Lane: 2
   EndTime: 198802
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 198402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 198802
   Lane: 3
   EndTime: 199202
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 198802
   Lane: 1
   EndTime: 199202
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 199202
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 199202
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 199502
-  Lane: 2
+  Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 199502
-  Lane: 3
+  Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 199802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 199802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 199802
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 200102
-  Lane: 3
+  Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 200102
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 200402
-  Lane: 3
+  Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 200402
-  Lane: 2
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 200702
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 200702
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
+- StartTime: 200702
+  Lane: 4
+  KeySounds: []
+  EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 200802
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 200802
   Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 200802
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 201102
-  Lane: 3
+  Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 201102
   Lane: 2
   KeySounds: []
   EditorLayer: 4
-- StartTime: 201402
-  Lane: 3
-  HitSound: Whistle
-  KeySounds: []
-  EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 201402
   Lane: 2
-  KeySounds: []
-  EditorLayer: 4
-- StartTime: 201502
-  Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
-- StartTime: 201502
-  Lane: 2
+  TimingGroup: Drop2_G
+- StartTime: 201402
+  Lane: 1
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
+- StartTime: 201502
+  Lane: 4
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 4
+  TimingGroup: Drop2_G
+- StartTime: 201502
+  Lane: 3
+  KeySounds: []
+  EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 201602
-  Lane: 3
+  Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 201602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 201602
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 201802
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 201902
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 202102
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 202202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 202402
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 202602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 202802
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 203002
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 204002
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 204002
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 204102
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 204202
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 204302
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 204402
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 204502
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 204602
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 204702
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 204802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 204802
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 204802
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 205202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 205202
   Lane: 2
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 205602
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 205802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 205902
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 206102
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 206202
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 206402
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 206502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 206602
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 206702
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 206802
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 206902
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 207002
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 207102
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 207202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 207202
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 207202
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 207402
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 207402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 207502
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 207502
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 207702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 207702
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 207802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 207802
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 208002
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 208002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 208102
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 208202
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 208302
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 208402
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 208502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 208602
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 208702
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 208802
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 208802
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 208802
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 209002
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 209002
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 209102
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 209102
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 209302
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 209302
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 209402
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 209402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 209602
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 209602
   Lane: 3
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 209702
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 209802
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 209902
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 210002
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 210102
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 210202
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 210302
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 210402
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 210402
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 210502
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 210602
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 210702
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 210802
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 210902
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 211002
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 211102
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 211202
   Lane: 4
   EndTime: 211602
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 211202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 211202
   Lane: 2
   EndTime: 211602
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 211602
   Lane: 1
   EndTime: 212002
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 211602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212002
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212002
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 212002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212202
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212202
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212302
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212302
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212502
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212502
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212602
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212602
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 212802
   Lane: 4
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 212802
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 212902
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 213002
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 213102
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 213202
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 213302
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 213402
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 213502
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 213602
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 213602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 213602
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 213802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 213802
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 213902
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 213902
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214102
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214102
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214202
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214402
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 214602
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214702
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214902
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 214902
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215002
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215202
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 215202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215202
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215402
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215602
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215802
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 215802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 216802
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 216802
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 216902
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 217002
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 217102
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 217202
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 217302
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 217402
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 217502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 217602
   Lane: 4
   EndTime: 218002
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 217602
   Lane: 2
   EndTime: 218002
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 217602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 218002
   Lane: 1
   EndTime: 218402
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 218002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 218402
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 218402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 218402
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 218602
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 218602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 218702
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 218702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 218902
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 218902
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 219002
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 219002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 219202
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 219202
   Lane: 4
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 219302
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 219402
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 219502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 219602
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 219702
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 219802
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 219902
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 220002
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 220002
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 220002
   Lane: 3
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 220202
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 220202
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 220302
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 220302
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 220502
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 220502
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 220602
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 220602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 220802
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 220802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 220902
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 221002
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 221102
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 221202
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 221302
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 221402
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 221502
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 221602
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 221602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 221602
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 221802
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 221802
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 221902
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 221902
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 222102
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 222102
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 222202
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 222202
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 222402
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 222402
   Lane: 4
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 222502
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 222602
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 222702
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 222802
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 222902
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 223002
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 223102
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 223202
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 223202
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 223302
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 223402
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 223502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 223602
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 223702
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 223802
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 223902
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 224002
   Lane: 4
   EndTime: 224402
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 224002
   Lane: 2
   EndTime: 224402
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 224002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 224402
   Lane: 1
   EndTime: 224802
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 224402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 224802
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 224802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 224802
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 225002
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 225002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 225102
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 225102
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 225302
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 225302
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 225402
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 225402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 225602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: Drop2_G
 - StartTime: 225602
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 225702
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 225802
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 225902
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 226002
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 226102
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 226202
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 226302
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: Drop2_G
 - StartTime: 226402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 226402
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 226402
   Lane: 2
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: Drop2_G
 - StartTime: 226602
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 226602
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 226702
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 226702
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 226902
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 226902
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 227002
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 227002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: Drop2_G
 - StartTime: 227202
   Lane: 2
   HitSound: Normal, Whistle
@@ -85084,6 +85550,765 @@ TimingGroups:
     InitialScrollVelocity: 1
     ScrollVelocities:
     - Multiplier: 1
+    - StartTime: 186402
+      Multiplier: 259198
+    - StartTime: 186402.015625
+      Multiplier: -1.9999825954437256
+    - StartTime: 186420.75
+      Multiplier: -1.9411370754241943
+    - StartTime: 186439.5
+      Multiplier: -1.8092633485794067
+    - StartTime: 186458.25
+      Multiplier: -1.6109714508056641
+    - StartTime: 186477
+      Multiplier: -1.3552869558334351
+    - StartTime: 186495.75
+      Multiplier: -1.0532675981521606
+    - StartTime: 186514.5
+      Multiplier: -0.71753060817718506
+    - StartTime: 186533.25
+      Multiplier: -0.36172947287559509
+    - StartTime: 186552
+      Multiplier: -2.2451823229858948E-16
+    - StartTime: 186570.75
+      Multiplier: 0.35360059142112732
+    - StartTime: 186589.5
+      Multiplier: 0.68563973903656006
+    - StartTime: 186608.25
+      Multiplier: 0.98382008075714111
+    - StartTime: 186627
+      Multiplier: 1.2374337911605835
+    - StartTime: 186645.75
+      Multiplier: 1.4377455711364746
+    - StartTime: 186664.5
+      Multiplier: 1.5782895088195801
+    - StartTime: 186683.25
+      Multiplier: 1.6550698280334473
+    - StartTime: 186701.984375
+      Multiplier: 10135.0595703125
+    - StartTime: 186702
+      Multiplier: 203200.96875
+    - StartTime: 186702.015625
+      Multiplier: 1.666643500328064
+    - StartTime: 186720.75
+      Multiplier: 1.6142029762268066
+    - StartTime: 186739.5
+      Multiplier: 1.501298189163208
+    - StartTime: 186758.25
+      Multiplier: 1.3338100910186768
+    - StartTime: 186777
+      Multiplier: 1.1195806264877319
+    - StartTime: 186795.75
+      Multiplier: 0.86807429790496826
+    - StartTime: 186814.5
+      Multiplier: 0.58996725082397461
+    - StartTime: 186833.25
+      Multiplier: 0.29669824242591858
+    - StartTime: 186852
+      Multiplier: 1.8369596909659111E-16
+    - StartTime: 186870.75
+      Multiplier: -0.28856933116912842
+    - StartTime: 186889.5
+      Multiplier: -0.55807638168334961
+    - StartTime: 186908.25
+      Multiplier: -0.79862678050994873
+    - StartTime: 186927
+      Multiplier: -1.0017274618148804
+    - StartTime: 186945.75
+      Multiplier: -1.1605842113494873
+    - StartTime: 186964.5
+      Multiplier: -1.2703243494033813
+    - StartTime: 186983.25
+      Multiplier: -1.3281357288360596
+    - StartTime: 187001.984375
+      Multiplier: 9598.748046875
+    - StartTime: 187002
+      Multiplier: 161063.96875
+    - StartTime: 187002.015625
+      Multiplier: -1.3333044052124023
+    - StartTime: 187020.75
+      Multiplier: -1.2872688770294189
+    - StartTime: 187039.5
+      Multiplier: -1.1933330297470093
+    - StartTime: 187058.25
+      Multiplier: -1.0566487312316895
+    - StartTime: 187077
+      Multiplier: -0.88387423753738403
+    - StartTime: 187095.75
+      Multiplier: -0.68288099765777588
+    - StartTime: 187114.5
+      Multiplier: -0.46240389347076416
+    - StartTime: 187133.25
+      Multiplier: -0.23166701197624207
+    - StartTime: 187152
+      Multiplier: -1.4287369265970294E-16
+    - StartTime: 187170.75
+      Multiplier: 0.2235381007194519
+    - StartTime: 187189.5
+      Multiplier: 0.43051305413246155
+    - StartTime: 187208.25
+      Multiplier: 0.61343348026275635
+    - StartTime: 187227
+      Multiplier: 0.76602107286453247
+    - StartTime: 187245.75
+      Multiplier: 0.88342291116714478
+    - StartTime: 187264.5
+      Multiplier: 0.96235913038253784
+    - StartTime: 187283.25
+      Multiplier: 1.0012016296386719
+    - StartTime: 187301.984375
+      Multiplier: 6400.98046875
+    - StartTime: 187302
+      Multiplier: 121601
+    - StartTime: 187302.015625
+      Multiplier: 1.0000120401382446
+    - StartTime: 187320.75
+      Multiplier: 0.99493134021759033
+    - StartTime: 187339.5
+      Multiplier: 0.95053017139434814
+    - StartTime: 187358.25
+      Multiplier: 0.86744707822799683
+    - StartTime: 187377
+      Multiplier: 0.74790185689926147
+    - StartTime: 187395.75
+      Multiplier: 0.59563589096069336
+    - StartTime: 187414.5
+      Multiplier: 0.41580066084861755
+    - StartTime: 187433.25
+      Multiplier: 0.21478718519210815
+    - StartTime: 187452
+      Multiplier: 1.3659539181042546E-16
+    - StartTime: 187470.75
+      Multiplier: -0.22041484713554382
+    - StartTime: 187489.5
+      Multiplier: -0.43787881731987
+    - StartTime: 187508.25
+      Multiplier: -0.64371466636657715
+    - StartTime: 187527
+      Multiplier: -0.82949209213256836
+    - StartTime: 187545.75
+      Multiplier: -0.98737204074859619
+    - StartTime: 187564.5
+      Multiplier: -1.1104342937469482
+    - StartTime: 187583.25
+      Multiplier: -1.1929769515991211
+    - StartTime: 187601.984375
+      Multiplier: 8614.0888671875
+    - StartTime: 187602
+      Multiplier: 148922.171875
+    - StartTime: 187602.015625
+      Multiplier: -1.2307840585708618
+    - StartTime: 187620.75
+      Multiplier: -1.2212691307067871
+    - StartTime: 187639.5
+      Multiplier: -1.1637357473373413
+    - StartTime: 187658.25
+      Multiplier: -1.0593270063400269
+    - StartTime: 187677
+      Multiplier: -0.91108232736587524
+    - StartTime: 187695.75
+      Multiplier: -0.7238459587097168
+    - StartTime: 187714.5
+      Multiplier: -0.50411325693130493
+    - StartTime: 187733.25
+      Multiplier: -0.25980857014656067
+    - StartTime: 187752
+      Multiplier: -1.648568181491326E-16
+    - StartTime: 187770.75
+      Multiplier: 0.26543623208999634
+    - StartTime: 187789.5
+      Multiplier: 0.52619141340255737
+    - StartTime: 187808.25
+      Multiplier: 0.77192473411560059
+    - StartTime: 187827
+      Multiplier: 0.99267256259918213
+    - StartTime: 187845.75
+      Multiplier: 1.1792519092559814
+    - StartTime: 187864.5
+      Multiplier: 1.3236398696899414
+    - StartTime: 187883.25
+      Multiplier: 1.4193147420883179
+    - StartTime: 187901.984375
+      Multiplier: 10832.1396484375
+    - StartTime: 187902
+      Multiplier: -10830.091796875
+    - StartTime: 187902.015625
+      Multiplier: 0.7307780385017395
+    - StartTime: 188001.984375
+      Multiplier: 11569.9462890625
+    - StartTime: 188002
+      Multiplier: 185353.078125
+    - StartTime: 188002.015625
+      Multiplier: -1.5385100841522217
+    - StartTime: 188020.75
+      Multiplier: -1.5587500333786011
+    - StartTime: 188039.5
+      Multiplier: -1.5158865451812744
+    - StartTime: 188058.25
+      Multiplier: -1.4076412916183472
+    - StartTime: 188077
+      Multiplier: -1.2344698905944824
+    - StartTime: 188095.75
+      Multiplier: -0.99965322017669678
+    - StartTime: 188114.5
+      Multiplier: -0.70931470394134521
+    - StartTime: 188133.25
+      Multiplier: -0.37231135368347168
+    - StartTime: 188152
+      Multiplier: -2.4051545535911181E-16
+    - StartTime: 188170.75
+      Multiplier: 0.39411881566047668
+    - StartTime: 188189.5
+      Multiplier: 0.7948683500289917
+    - StartTime: 188208.25
+      Multiplier: 1.1859602928161621
+    - StartTime: 188227
+      Multiplier: 1.5506348609924316
+    - StartTime: 188245.75
+      Multiplier: 1.8723549842834473
+    - StartTime: 188264.5
+      Multiplier: 2.1355209350585938
+    - StartTime: 188283.25
+      Multiplier: 2.3261837959289551
+    - StartTime: 188301.984375
+      Multiplier: 9356.02734375
+    - StartTime: 188302
+      Multiplier: 311636.25
+    - StartTime: 188302.015625
+      Multiplier: 2.4327690601348877
+    - StartTime: 188320.75
+      Multiplier: 2.4464271068572998
+    - StartTime: 188339.5
+      Multiplier: 2.3620541095733643
+    - StartTime: 188358.25
+      Multiplier: 2.1781666278839111
+    - StartTime: 188377
+      Multiplier: 1.8973970413208008
+    - StartTime: 188395.75
+      Multiplier: 1.5265216827392578
+    - StartTime: 188414.5
+      Multiplier: 1.0763677358627319
+    - StartTime: 188433.25
+      Multiplier: 0.56154382228851318
+    - StartTime: 188452
+      Multiplier: 3.6062771836486659E-16
+    - StartTime: 188470.75
+      Multiplier: -0.58757209777832031
+    - StartTime: 188489.5
+      Multiplier: -1.1784803867340088
+    - StartTime: 188508.25
+      Multiplier: -1.7488884925842285
+    - StartTime: 188527
+      Multiplier: -2.2747559547424316
+    - StartTime: 188545.75
+      Multiplier: -2.732825756072998
+    - StartTime: 188564.5
+      Multiplier: -3.1016190052032471
+    - StartTime: 188583.25
+      Multiplier: -3.3623979091644287
+    - StartTime: 188601.984375
+      Multiplier: 18396.490234375
+    - StartTime: 188602
+      Multiplier: 6400
+    - StartTime: 188602.015625
+    - StartTime: 188702
+      Multiplier: 6400
+    - StartTime: 188702.015625
+    - StartTime: 188802
+      Multiplier: 9599.9638671875
+    - StartTime: 188802.015625
+      Multiplier: -0.035963211208581924
+    - StartTime: 188814.5
+      Multiplier: -0.051610533148050308
+    - StartTime: 188827
+      Multiplier: -0.074061602354049683
+    - StartTime: 188839.5
+      Multiplier: -0.10627195984125137
+    - StartTime: 188852
+      Multiplier: -0.15248093008995056
+    - StartTime: 188864.5
+      Multiplier: -0.21876819431781769
+    - StartTime: 188877
+      Multiplier: -0.31385207176208496
+    - StartTime: 188889.5
+      Multiplier: -0.45023420453071594
+    - StartTime: 188902
+      Multiplier: -0.64584016799926758
+    - StartTime: 188914.5
+      Multiplier: -0.92637127637863159
+    - StartTime: 188927
+      Multiplier: -1.3286758661270142
+    - StartTime: 188939.5
+      Multiplier: -1.9055805206298828
+    - StartTime: 188952
+      Multiplier: -2.7328150272369385
+    - StartTime: 188964.5
+      Multiplier: -3.9189367294311523
+    - StartTime: 188977
+      Multiplier: -5.6195521354675293
+    - StartTime: 188989.5
+      Multiplier: -8.0576982498168945
+    - StartTime: 189001.984375
+      Multiplier: 21751.6015625
+    - StartTime: 189002
+      Multiplier: 5439.97998046875
+    - StartTime: 189002.015625
+    - StartTime: 189102
+      Multiplier: 11519.896484375
+    - StartTime: 189102.015625
+      Multiplier: -0.043155550956726074
+    - StartTime: 189114.5
+      Multiplier: -0.061847016215324402
+    - StartTime: 189127
+      Multiplier: -0.088630646467208862
+    - StartTime: 189139.5
+      Multiplier: -0.12700732052326202
+    - StartTime: 189152
+      Multiplier: -0.18199248611927032
+    - StartTime: 189164.5
+      Multiplier: -0.26077041029930115
+    - StartTime: 189177
+      Multiplier: -0.37363165616989136
+    - StartTime: 189189.5
+      Multiplier: -0.53531533479690552
+    - StartTime: 189202
+      Multiplier: -0.76693165302276611
+    - StartTime: 189214.5
+      Multiplier: -1.0987144708633423
+    - StartTime: 189227
+      Multiplier: -1.5739628076553345
+    - StartTime: 189239.5
+      Multiplier: -2.2546844482421875
+    - StartTime: 189252
+      Multiplier: -3.2296762466430664
+    - StartTime: 189264.5
+      Multiplier: -4.6260933876037598
+    - StartTime: 189277
+      Multiplier: -6.6260113716125488
+    - StartTime: 189289.5
+      Multiplier: -9.4901390075683594
+    - StartTime: 189301.984375
+      Multiplier: 25590.048828125
+    - StartTime: 189302
+      Multiplier: 6399.9501953125
+    - StartTime: 189302.015625
+    - StartTime: 189402
+      Multiplier: 12799.9521484375
+    - StartTime: 189402.015625
+      Multiplier: -0.047950915992259979
+    - StartTime: 189414.5
+      Multiplier: -0.068778529763221741
+    - StartTime: 189427
+      Multiplier: -0.098647698760032654
+    - StartTime: 189439.5
+      Multiplier: -0.14148011803627014
+    - StartTime: 189452
+      Multiplier: -0.20289833843708038
+    - StartTime: 189464.5
+      Multiplier: -0.29096227884292603
+    - StartTime: 189477
+      Multiplier: -0.41722497344017029
+    - StartTime: 189489.5
+      Multiplier: -0.59824591875076294
+    - StartTime: 189502
+      Multiplier: -0.85775911808013916
+    - StartTime: 189514.5
+      Multiplier: -1.2297800779342651
+    - StartTime: 189527
+      Multiplier: -1.7630573511123657
+    - StartTime: 189539.5
+      Multiplier: -2.5274503231048584
+    - StartTime: 189552
+      Multiplier: -3.6230664253234863
+    - StartTime: 189564.5
+      Multiplier: -5.1933531761169434
+    - StartTime: 189577
+      Multiplier: -7.4438486099243164
+    - StartTime: 189589.5
+      Multiplier: -10.669048309326172
+    - StartTime: 189601.984375
+      Multiplier: 28789.068359375
+    - StartTime: 189602
+      Multiplier: 14399.9775390625
+    - StartTime: 189602.015625
+      Multiplier: -0.053944837301969528
+    - StartTime: 189614.5
+      Multiplier: -0.077309362590312958
+    - StartTime: 189627
+      Multiplier: -0.11078918725252151
+    - StartTime: 189639.5
+      Multiplier: -0.15876045823097229
+    - StartTime: 189652
+      Multiplier: -0.22749254107475281
+    - StartTime: 189664.5
+      Multiplier: -0.32596591114997864
+    - StartTime: 189677
+      Multiplier: -0.46704381704330444
+    - StartTime: 189689.5
+      Multiplier: -0.66915041208267212
+    - StartTime: 189702
+      Multiplier: -0.95867377519607544
+    - StartTime: 189714.5
+      Multiplier: -1.3734066486358643
+    - StartTime: 189727
+      Multiplier: -1.9674735069274902
+    - StartTime: 189739.5
+      Multiplier: -2.818385124206543
+    - StartTime: 189752
+      Multiplier: -4.0371384620666504
+    - StartTime: 189764.5
+      Multiplier: -5.7826800346374512
+    - StartTime: 189777
+      Multiplier: -8.2826070785522461
+    - StartTime: 189789.5
+      Multiplier: -11.862809181213379
+    - StartTime: 189801.984375
+      Multiplier: 31987.9375
+    - StartTime: 189802
+      Multiplier: 16000.0029296875
+    - StartTime: 189802.015625
+      Multiplier: -0.059938762336969376
+    - StartTime: 189814.5
+      Multiplier: -0.085840202867984772
+    - StartTime: 189827
+      Multiplier: -0.12293068319559097
+    - StartTime: 189839.5
+      Multiplier: -0.17604081332683563
+    - StartTime: 189852
+      Multiplier: -0.25208675861358643
+    - StartTime: 189864.5
+      Multiplier: -0.36096954345703125
+    - StartTime: 189877
+      Multiplier: -0.51686263084411621
+    - StartTime: 189889.5
+      Multiplier: -0.74005496501922607
+    - StartTime: 189902
+      Multiplier: -1.0595884323120117
+    - StartTime: 189914.5
+      Multiplier: -1.5170332193374634
+    - StartTime: 189927
+      Multiplier: -2.1718897819519043
+    - StartTime: 189939.5
+      Multiplier: -3.1093196868896484
+    - StartTime: 189952
+      Multiplier: -4.4512109756469727
+    - StartTime: 189964.5
+      Multiplier: -6.3720073699951172
+    - StartTime: 189977
+      Multiplier: -9.1213655471801758
+    - StartTime: 189989.5
+      Multiplier: -13.056570053100586
+    - StartTime: 190001.984375
+      Multiplier: 35186.8046875
+    - StartTime: 190002
+      Multiplier: 17600.02734375
+    - StartTime: 190002.015625
+      Multiplier: -0.065932683646678925
+    - StartTime: 190014.5
+      Multiplier: -0.094371035695075989
+    - StartTime: 190027
+      Multiplier: -0.13507217168807983
+    - StartTime: 190039.5
+      Multiplier: -0.19332115352153778
+    - StartTime: 190052
+      Multiplier: -0.27668094635009766
+    - StartTime: 190064.5
+      Multiplier: -0.39597317576408386
+    - StartTime: 190077
+      Multiplier: -0.56668150424957275
+    - StartTime: 190089.5
+      Multiplier: -0.81095945835113525
+    - StartTime: 190102
+      Multiplier: -1.1605031490325928
+    - StartTime: 190114.5
+      Multiplier: -1.6606597900390625
+    - StartTime: 190127
+      Multiplier: -2.3763058185577393
+    - StartTime: 190139.5
+      Multiplier: -3.400254487991333
+    - StartTime: 190152
+      Multiplier: -4.8652830123901367
+    - StartTime: 190164.5
+      Multiplier: -6.961334228515625
+    - StartTime: 190177
+      Multiplier: -9.9601230621337891
+    - StartTime: 190189.5
+      Multiplier: -14.250329971313477
+    - StartTime: 190201.984375
+      Multiplier: 38385.671875
+    - StartTime: 190202
+      Multiplier: 1
+    - StartTime: 199201.984375
+      Multiplier: -3199
+    - StartTime: 199202
+      Multiplier: 259198
+    - StartTime: 199202.015625
+      Multiplier: -1.9999825954437256
+    - StartTime: 199220.75
+      Multiplier: -1.9411370754241943
+    - StartTime: 199239.5
+      Multiplier: -1.8092633485794067
+    - StartTime: 199258.25
+      Multiplier: -1.6109714508056641
+    - StartTime: 199277
+      Multiplier: -1.3552869558334351
+    - StartTime: 199295.75
+      Multiplier: -1.0532675981521606
+    - StartTime: 199314.5
+      Multiplier: -0.71753060817718506
+    - StartTime: 199333.25
+      Multiplier: -0.36172947287559509
+    - StartTime: 199352
+      Multiplier: -2.2451823229858948E-16
+    - StartTime: 199370.75
+      Multiplier: 0.35360059142112732
+    - StartTime: 199389.5
+      Multiplier: 0.68563973903656006
+    - StartTime: 199408.25
+      Multiplier: 0.98382008075714111
+    - StartTime: 199427
+      Multiplier: 1.2374337911605835
+    - StartTime: 199445.75
+      Multiplier: 1.4377455711364746
+    - StartTime: 199464.5
+      Multiplier: 1.5782895088195801
+    - StartTime: 199483.25
+      Multiplier: 1.6550698280334473
+    - StartTime: 199501.984375
+      Multiplier: 10135.0595703125
+    - StartTime: 199502
+      Multiplier: 203200.96875
+    - StartTime: 199502.015625
+      Multiplier: 1.666643500328064
+    - StartTime: 199520.75
+      Multiplier: 1.6142029762268066
+    - StartTime: 199539.5
+      Multiplier: 1.501298189163208
+    - StartTime: 199558.25
+      Multiplier: 1.3338100910186768
+    - StartTime: 199577
+      Multiplier: 1.1195806264877319
+    - StartTime: 199595.75
+      Multiplier: 0.86807429790496826
+    - StartTime: 199614.5
+      Multiplier: 0.58996725082397461
+    - StartTime: 199633.25
+      Multiplier: 0.29669824242591858
+    - StartTime: 199652
+      Multiplier: 1.8369596909659111E-16
+    - StartTime: 199670.75
+      Multiplier: -0.28856933116912842
+    - StartTime: 199689.5
+      Multiplier: -0.55807638168334961
+    - StartTime: 199708.25
+      Multiplier: -0.79862678050994873
+    - StartTime: 199727
+      Multiplier: -1.0017274618148804
+    - StartTime: 199745.75
+      Multiplier: -1.1605842113494873
+    - StartTime: 199764.5
+      Multiplier: -1.2703243494033813
+    - StartTime: 199783.25
+      Multiplier: -1.3281357288360596
+    - StartTime: 199801.984375
+      Multiplier: 9598.748046875
+    - StartTime: 199802
+      Multiplier: 161063.96875
+    - StartTime: 199802.015625
+      Multiplier: -1.3333044052124023
+    - StartTime: 199820.75
+      Multiplier: -1.2872688770294189
+    - StartTime: 199839.5
+      Multiplier: -1.1933330297470093
+    - StartTime: 199858.25
+      Multiplier: -1.0566487312316895
+    - StartTime: 199877
+      Multiplier: -0.88387423753738403
+    - StartTime: 199895.75
+      Multiplier: -0.68288099765777588
+    - StartTime: 199914.5
+      Multiplier: -0.46240389347076416
+    - StartTime: 199933.25
+      Multiplier: -0.23166701197624207
+    - StartTime: 199952
+      Multiplier: -1.4287369265970294E-16
+    - StartTime: 199970.75
+      Multiplier: 0.2235381007194519
+    - StartTime: 199989.5
+      Multiplier: 0.43051305413246155
+    - StartTime: 200008.25
+      Multiplier: 0.61343348026275635
+    - StartTime: 200027
+      Multiplier: 0.76602107286453247
+    - StartTime: 200045.75
+      Multiplier: 0.88342291116714478
+    - StartTime: 200064.5
+      Multiplier: 0.96235913038253784
+    - StartTime: 200083.25
+      Multiplier: 1.0012016296386719
+    - StartTime: 200101.984375
+      Multiplier: 6400.98046875
+    - StartTime: 200102
+      Multiplier: 121601
+    - StartTime: 200102.015625
+      Multiplier: 1.0000120401382446
+    - StartTime: 200120.75
+      Multiplier: 0.99493134021759033
+    - StartTime: 200139.5
+      Multiplier: 0.95053017139434814
+    - StartTime: 200158.25
+      Multiplier: 0.86744707822799683
+    - StartTime: 200177
+      Multiplier: 0.74790185689926147
+    - StartTime: 200195.75
+      Multiplier: 0.59563589096069336
+    - StartTime: 200214.5
+      Multiplier: 0.41580066084861755
+    - StartTime: 200233.25
+      Multiplier: 0.21478718519210815
+    - StartTime: 200252
+      Multiplier: 1.3659539181042546E-16
+    - StartTime: 200270.75
+      Multiplier: -0.22041484713554382
+    - StartTime: 200289.5
+      Multiplier: -0.43787881731987
+    - StartTime: 200308.25
+      Multiplier: -0.64371466636657715
+    - StartTime: 200327
+      Multiplier: -0.82949209213256836
+    - StartTime: 200345.75
+      Multiplier: -0.98737204074859619
+    - StartTime: 200364.5
+      Multiplier: -1.1104342937469482
+    - StartTime: 200383.25
+      Multiplier: -1.1929769515991211
+    - StartTime: 200401.984375
+      Multiplier: 8614.0888671875
+    - StartTime: 200402
+      Multiplier: 148922.171875
+    - StartTime: 200402.015625
+      Multiplier: -1.2307840585708618
+    - StartTime: 200420.75
+      Multiplier: -1.2212691307067871
+    - StartTime: 200439.5
+      Multiplier: -1.1637357473373413
+    - StartTime: 200458.25
+      Multiplier: -1.0593270063400269
+    - StartTime: 200477
+      Multiplier: -0.91108232736587524
+    - StartTime: 200495.75
+      Multiplier: -0.7238459587097168
+    - StartTime: 200514.5
+      Multiplier: -0.50411325693130493
+    - StartTime: 200533.25
+      Multiplier: -0.25980857014656067
+    - StartTime: 200552
+      Multiplier: -1.648568181491326E-16
+    - StartTime: 200570.75
+      Multiplier: 0.26543623208999634
+    - StartTime: 200589.5
+      Multiplier: 0.52619141340255737
+    - StartTime: 200608.25
+      Multiplier: 0.77192473411560059
+    - StartTime: 200627
+      Multiplier: 0.99267256259918213
+    - StartTime: 200645.75
+      Multiplier: 1.1792519092559814
+    - StartTime: 200664.5
+      Multiplier: 1.3236398696899414
+    - StartTime: 200683.25
+      Multiplier: 1.4193147420883179
+    - StartTime: 200701.984375
+      Multiplier: 10832.1396484375
+    - StartTime: 200702
+      Multiplier: -10830.091796875
+    - StartTime: 200702.015625
+      Multiplier: 0.7307780385017395
+    - StartTime: 200801.984375
+      Multiplier: 11569.9462890625
+    - StartTime: 200802
+      Multiplier: 185353.078125
+    - StartTime: 200802.015625
+      Multiplier: -1.5385100841522217
+    - StartTime: 200820.75
+      Multiplier: -1.5587500333786011
+    - StartTime: 200839.5
+      Multiplier: -1.5158865451812744
+    - StartTime: 200858.25
+      Multiplier: -1.4076412916183472
+    - StartTime: 200877
+      Multiplier: -1.2344698905944824
+    - StartTime: 200895.75
+      Multiplier: -0.99965322017669678
+    - StartTime: 200914.5
+      Multiplier: -0.70931470394134521
+    - StartTime: 200933.25
+      Multiplier: -0.37231135368347168
+    - StartTime: 200952
+      Multiplier: -2.4051545535911181E-16
+    - StartTime: 200970.75
+      Multiplier: 0.39411881566047668
+    - StartTime: 200989.5
+      Multiplier: 0.7948683500289917
+    - StartTime: 201008.25
+      Multiplier: 1.1859602928161621
+    - StartTime: 201027
+      Multiplier: 1.5506348609924316
+    - StartTime: 201045.75
+      Multiplier: 1.8723549842834473
+    - StartTime: 201064.5
+      Multiplier: 2.1355209350585938
+    - StartTime: 201083.25
+      Multiplier: 2.3261837959289551
+    - StartTime: 201101.984375
+      Multiplier: 9356.02734375
+    - StartTime: 201102
+      Multiplier: 311636.25
+    - StartTime: 201102.015625
+      Multiplier: 2.4327690601348877
+    - StartTime: 201120.75
+      Multiplier: 2.4464271068572998
+    - StartTime: 201139.5
+      Multiplier: 2.3620541095733643
+    - StartTime: 201158.25
+      Multiplier: 2.1781666278839111
+    - StartTime: 201177
+      Multiplier: 1.8973970413208008
+    - StartTime: 201195.75
+      Multiplier: 1.5265216827392578
+    - StartTime: 201214.5
+      Multiplier: 1.0763677358627319
+    - StartTime: 201233.25
+      Multiplier: 0.56154382228851318
+    - StartTime: 201252
+      Multiplier: 3.6062771836486659E-16
+    - StartTime: 201270.75
+      Multiplier: -0.58757209777832031
+    - StartTime: 201289.5
+      Multiplier: -1.1784803867340088
+    - StartTime: 201308.25
+      Multiplier: -1.7488884925842285
+    - StartTime: 201327
+      Multiplier: -2.2747559547424316
+    - StartTime: 201345.75
+      Multiplier: -2.732825756072998
+    - StartTime: 201364.5
+      Multiplier: -3.1016190052032471
+    - StartTime: 201383.25
+      Multiplier: -3.3623979091644287
+    - StartTime: 201401.984375
+      Multiplier: 18396.490234375
+    - StartTime: 201402
+      Multiplier: 6400
+    - StartTime: 201402.015625
+    - StartTime: 201502
+      Multiplier: 6400
+    - StartTime: 201502.015625
+    - StartTime: 201602
+      Multiplier: 12800
+    - StartTime: 201602.015625
+    - StartTime: 201802
+      Multiplier: 1
     - StartTime: 227202
       Multiplier: 4.7058300971984863
     - StartTime: 227202.015625
