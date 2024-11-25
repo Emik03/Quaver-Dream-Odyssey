@@ -9155,1152 +9155,1400 @@ HitObjects:
   KeySounds: []
   EditorLayer: 3
 - StartTime: 89602
+  Lane: 1
+  KeySounds: []
+  EditorLayer: 1
+  TimingGroup: ToW_Emik
+- StartTime: 89602
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
-- StartTime: 89602
-  Lane: 1
-  KeySounds: []
-  EditorLayer: 1
+  TimingGroup: ToW_Emik
 - StartTime: 90002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 90402
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 90402
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 90402
   Lane: 2
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Aster
 - StartTime: 90602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 90602
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 90702
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 90702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 90902
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 90902
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 91002
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 91002
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 91202
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 91202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Emik
 - StartTime: 91302
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 91402
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 91502
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 91602
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 91702
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 91802
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 91902
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 92002
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 92002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 92002
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Aster
 - StartTime: 92202
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 92202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 92302
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 92302
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 92502
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 92502
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 92602
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 92602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 92802
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 92802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Emik
 - StartTime: 92902
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 93002
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 93102
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 93202
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 93302
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 93402
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 93502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 93602
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 93602
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 93602
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Aster
 - StartTime: 93802
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 93802
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 93902
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 93902
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 94102
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 94102
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 94202
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 94202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 94402
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 94402
   Lane: 3
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Emik
 - StartTime: 94502
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 94602
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 94702
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 94802
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 94902
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 95002
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 95102
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 95202
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 95202
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Emik
 - StartTime: 95302
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 95402
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 95502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 95602
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 95702
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 95802
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 95902
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 96002
   Lane: 4
   EndTime: 96402
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 96002
   Lane: 2
   EndTime: 96402
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 96002
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Aster
 - StartTime: 96402
   Lane: 1
   EndTime: 96802
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 96402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 96802
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 96802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 96802
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Emik
 - StartTime: 97002
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 97002
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 97102
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 97102
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 97302
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 97302
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 97402
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 97402
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 97602
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 97602
   Lane: 4
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Aster
 - StartTime: 97702
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 97802
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 97902
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 98002
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 98102
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 98202
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 98302
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 98402
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 98402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 98402
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Emik
 - StartTime: 98602
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 98602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 98702
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 98702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 98902
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 98902
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 99002
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 99002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 99202
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 99202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 99202
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Aster
 - StartTime: 99402
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 99402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 99502
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 99502
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 99702
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 99702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 99802
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 99802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 100002
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 100002
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 100002
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Aster
 - StartTime: 100202
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 100202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 100402
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 100402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 100602
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 100602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 100602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Aster
 - StartTime: 101602
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 101602
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Aster
 - StartTime: 101702
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 101802
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 101902
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 102002
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 102102
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 102202
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 102302
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 102402
   Lane: 4
   EndTime: 102802
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 102402
   Lane: 2
   EndTime: 102802
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 102402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Emik
 - StartTime: 102802
   Lane: 1
   EndTime: 103202
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 102802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 103202
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 103202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 103202
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Aster
 - StartTime: 103402
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 103402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 103502
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 103502
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 103702
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 103702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 103802
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 103802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 104002
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 104002
   Lane: 4
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Emik
 - StartTime: 104102
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 104202
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 104302
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 104402
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 104502
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 104602
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 104702
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 104802
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 104802
   Lane: 3
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Aster
 - StartTime: 104802
   Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 105002
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 105002
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 105102
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 105102
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 105302
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 105302
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 105402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 105402
   Lane: 1
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 105602
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 105602
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Emik
 - StartTime: 105702
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 105802
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 105902
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 106002
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 106102
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 106202
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 106302
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 106402
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 106402
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 106402
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Aster
 - StartTime: 106602
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 106602
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 106702
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 106702
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 106902
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 106902
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 107002
   Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 107002
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 107202
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 107202
   Lane: 4
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Emik
 - StartTime: 107302
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 107402
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 107502
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 107602
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 107702
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 107802
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 107902
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 108002
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 108002
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Emik
 - StartTime: 108102
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 108202
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 108302
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 108402
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 108502
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 108602
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 108702
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Emik
 - StartTime: 108802
   Lane: 4
   EndTime: 109202
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 108802
   Lane: 2
   EndTime: 109202
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 108802
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Aster
 - StartTime: 109202
   Lane: 1
   EndTime: 109602
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 109202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Aster
 - StartTime: 109602
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 109602
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 109602
   Lane: 4
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Emik
 - StartTime: 109802
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 109802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 109902
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 109902
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 110102
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 110102
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 110202
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 110202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 110402
   Lane: 1
   KeySounds: []
   EditorLayer: 1
+  TimingGroup: ToW_Aster
 - StartTime: 110402
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 110502
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 110602
   Lane: 2
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 110702
   Lane: 3
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 110802
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 110902
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 111002
   Lane: 1
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 111102
   Lane: 4
   KeySounds: []
   EditorLayer: 3
+  TimingGroup: ToW_Aster
 - StartTime: 111202
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 111202
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 111202
   Lane: 2
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
+  TimingGroup: ToW_Emik
 - StartTime: 111402
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 111402
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 111502
   Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 111502
   Lane: 1
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 111702
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 111702
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 111802
   Lane: 4
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 111802
   Lane: 3
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
+  TimingGroup: ToW_Emik
 - StartTime: 112002
   Lane: 2
   HitSound: Normal, Whistle
@@ -32465,3 +32713,21 @@ TimingGroups:
       Multiplier: 0.10069731622934341
     ScrollSpeedFactors: []
     ColorRgb: 139,31,22
+  SG_1: !ScrollGroup
+    InitialScrollVelocity: 1
+    ScrollVelocities:
+    - Multiplier: 1
+    ScrollSpeedFactors: []
+    ColorRgb: 199,123,92
+  ToW_Aster: !ScrollGroup
+    InitialScrollVelocity: 1
+    ScrollVelocities:
+    - Multiplier: 1
+    ScrollSpeedFactors: []
+    ColorRgb: 180,140,255
+  ToW_Emik: !ScrollGroup
+    InitialScrollVelocity: 1
+    ScrollVelocities:
+    - Multiplier: 1
+    ScrollSpeedFactors: []
+    ColorRgb: 139,233,253
