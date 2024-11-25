@@ -42539,23 +42539,152 @@ TimingGroups:
     InitialScrollVelocity: 1
     ScrollVelocities:
     - Multiplier: 1
+    - StartTime: 62402
+      Multiplier: 256001
+    - StartTime: 62402.015625
+      Multiplier: 1
+    - StartTime: 62403
+    - StartTime: 62661
+      Multiplier: 256000
+    - StartTime: 62661.015625
+    - StartTime: 63069
+      Multiplier: -256000
+    - StartTime: 63069.015625
+    - StartTime: 63202
+      Multiplier: -243264
+    - StartTime: 63202.015625
+    - StartTime: 63400.984375
+      Multiplier: 256000
+    - StartTime: 63401
+      Multiplier: -507712
+    - StartTime: 63401.015625
+    - StartTime: 63467.984375
+      Multiplier: 512000
+    - StartTime: 63468
+      Multiplier: -507712
+    - StartTime: 63468.015625
+    - StartTime: 63534.984375
+      Multiplier: 512000
+    - StartTime: 63535
+      Multiplier: -507712
+    - StartTime: 63535.015625
+    - StartTime: 63601.984375
+      Multiplier: 512000
+    - StartTime: 63602
+      Multiplier: 1
     ScrollSpeedFactors: []
     ColorRgb: 11,115,56
   BuildupSnares2: !ScrollGroup
     InitialScrollVelocity: 1
     ScrollVelocities:
     - Multiplier: 1
+    - StartTime: 62402
+      Multiplier: 256001
+    - StartTime: 62402.015625
+      Multiplier: 1
+    - StartTime: 62403
+    - StartTime: 62711
+      Multiplier: 256000
+    - StartTime: 62711.015625
+    - StartTime: 63011
+      Multiplier: -256000
+    - StartTime: 63011.015625
+    - StartTime: 63202
+      Multiplier: -243264
+    - StartTime: 63202.015625
+    - StartTime: 63400.984375
+      Multiplier: 256000
+    - StartTime: 63401
+      Multiplier: -507712
+    - StartTime: 63401.015625
+    - StartTime: 63467.984375
+      Multiplier: 512000
+    - StartTime: 63468
+      Multiplier: -507712
+    - StartTime: 63468.015625
+    - StartTime: 63534.984375
+      Multiplier: 512000
+    - StartTime: 63535
+      Multiplier: -507712
+    - StartTime: 63535.015625
+    - StartTime: 63601.984375
+      Multiplier: 512000
+    - StartTime: 63602
+      Multiplier: 1
     ScrollSpeedFactors: []
     ColorRgb: 207,184,107
   BuildupSnares3: !ScrollGroup
     InitialScrollVelocity: 1
     ScrollVelocities:
     - Multiplier: 1
+    - StartTime: 62402
+      Multiplier: 256001
+    - StartTime: 62402.015625
+      Multiplier: 1
+    - StartTime: 62403
+    - StartTime: 62752
+      Multiplier: 256000
+    - StartTime: 62752.015625
+    - StartTime: 62919
+      Multiplier: -256000
+    - StartTime: 62919.015625
+    - StartTime: 63202
+      Multiplier: -243264
+    - StartTime: 63202.015625
+    - StartTime: 63400.984375
+      Multiplier: 256000
+    - StartTime: 63401
+      Multiplier: -507712
+    - StartTime: 63401.015625
+    - StartTime: 63467.984375
+      Multiplier: 512000
+    - StartTime: 63468
+      Multiplier: -507712
+    - StartTime: 63468.015625
+    - StartTime: 63534.984375
+      Multiplier: 512000
+    - StartTime: 63535
+      Multiplier: -507712
+    - StartTime: 63535.015625
+    - StartTime: 63601.984375
+      Multiplier: 512000
+    - StartTime: 63602
+      Multiplier: 1
     ScrollSpeedFactors: []
     ColorRgb: 64,119,153
   BuildupSnares4: !ScrollGroup
     InitialScrollVelocity: 1
     ScrollVelocities:
     - Multiplier: 1
+    - StartTime: 62402
+      Multiplier: 256001
+    - StartTime: 62402.015625
+      Multiplier: 1
+    - StartTime: 62403
+    - StartTime: 62802
+      Multiplier: 256000
+    - StartTime: 62802.015625
+    - StartTime: 63202
+      Multiplier: -243264
+    - StartTime: 63202.015625
+    - StartTime: 63400.984375
+      Multiplier: 256000
+    - StartTime: 63401
+      Multiplier: -251712
+    - StartTime: 63401.015625
+    - StartTime: 63467.984375
+      Multiplier: 256000
+    - StartTime: 63468
+      Multiplier: -251712
+    - StartTime: 63468.015625
+    - StartTime: 63534.984375
+      Multiplier: 256000
+    - StartTime: 63535
+      Multiplier: -251712
+    - StartTime: 63535.015625
+    - StartTime: 63601.984375
+      Multiplier: 256000
+    - StartTime: 63602
+      Multiplier: 1
     ScrollSpeedFactors: []
     ColorRgb: 226,241,109
