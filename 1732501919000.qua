@@ -8186,19 +8186,13 @@ HitObjects:
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
-  TimingGroup: Drop1_N2
+  TimingGroup: Drop1_N3
 - StartTime: 66401
   Lane: 1
   HitSound: Clap
   KeySounds: []
   EditorLayer: 2
   TimingGroup: Drop1_N1
-- StartTime: 66401
-  Lane: 4
-  HitSound: Whistle
-  KeySounds: []
-  EditorLayer: 4
-  TimingGroup: Drop1_N3
 - StartTime: 66402
   Lane: 2
   HitSound: Whistle
@@ -8218,14 +8212,14 @@ HitObjects:
   EditorLayer: 4
   TimingGroup: Drop1_G
 - StartTime: 66701
-  Lane: 4
-  HitSound: Whistle
+  Lane: 2
+  HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
   TimingGroup: Drop1_G
 - StartTime: 66701
-  Lane: 2
-  HitSound: Normal, Whistle
+  Lane: 4
+  HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
   TimingGroup: Drop1_G
@@ -8242,14 +8236,14 @@ HitObjects:
   EditorLayer: 4
   TimingGroup: Drop1_G
 - StartTime: 67002
-  Lane: 4
-  HitSound: Whistle
+  Lane: 1
+  HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
   TimingGroup: Drop1_G
 - StartTime: 67002
-  Lane: 1
-  HitSound: Normal, Whistle
+  Lane: 4
+  HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
   TimingGroup: Drop1_G
@@ -8270,12 +8264,6 @@ HitObjects:
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Drop1_G
-- StartTime: 67201
-  Lane: 3
-  HitSound: Whistle
-  KeySounds: []
-  EditorLayer: 4
-  TimingGroup: Drop1_G
 - StartTime: 67402
   Lane: 2
   HitSound: Normal, Whistle
@@ -8285,12 +8273,6 @@ HitObjects:
 - StartTime: 67402
   Lane: 4
   HitSound: Whistle
-  KeySounds: []
-  EditorLayer: 4
-  TimingGroup: Drop1_G
-- StartTime: 67402
-  Lane: 2
-  HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
   TimingGroup: Drop1_G
