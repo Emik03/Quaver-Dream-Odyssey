@@ -78302,9 +78302,9 @@ TimingGroups:
     - StartTime: 2.015625
       Multiplier: 0.25000032782554626
     - StartTime: 201.984375
-      Multiplier: -260266.078125
+      Multiplier: -1066.078125
     - StartTime: 202
-      Multiplier: 260266.921875
+      Multiplier: 1066.921875
     - StartTime: 202.015625
       Multiplier: 0.25416699051856995
     - StartTime: 802
