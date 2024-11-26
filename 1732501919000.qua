@@ -51342,35 +51342,40 @@ HitObjects:
   Lane: 1
   KeySounds: []
   EditorLayer: 1
-  TimingGroup: Drop2_G
+  TimingGroup: Drop1_G
 - StartTime: 204802
   Lane: 4
-  HitSound: Whistle
+  EndTime: 205202
+  HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
-  TimingGroup: Drop2_G
+  TimingGroup: Drop1_G
 - StartTime: 204802
   Lane: 2
+  EndTime: 205202
+  HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
-  TimingGroup: Drop2_G
+  TimingGroup: Drop1_G
 - StartTime: 205202
   Lane: 3
-  HitSound: Whistle
+  HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
-  TimingGroup: Drop2_G
+  TimingGroup: Drop1_G
 - StartTime: 205202
-  Lane: 2
+  Lane: 1
+  EndTime: 205602
+  HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 4
-  TimingGroup: Drop2_G
+  TimingGroup: Drop1_G
 - StartTime: 205602
   Lane: 4
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 4
-  TimingGroup: Drop2_G
+  TimingGroup: Drop1_G
 - StartTime: 205802
   Lane: 3
   HitSound: Whistle
