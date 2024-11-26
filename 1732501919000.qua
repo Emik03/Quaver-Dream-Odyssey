@@ -114035,9 +114035,9 @@ TimingGroups:
     - StartTime: 190655.09375
       Multiplier: 3891.56005859375
     - StartTime: 190655.125
-      Multiplier: 0.045162118971347809
-    - StartTime: 190655.125
       Multiplier: 0.039932146668434143
+    - StartTime: 190655.125
+      Multiplier: 0.045162118971347809
     - StartTime: 190666.09375
       Multiplier: -4105.61669921875
     - StartTime: 190666.125
@@ -115544,6 +115544,1310 @@ TimingGroups:
       Multiplier: 12800
     - StartTime: 201602.015625
     - StartTime: 201802
+      Multiplier: 1
+    - StartTime: 207202
+      Multiplier: 12.152004241943359
+    - StartTime: 207202.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 207214.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 207227
+      Multiplier: 2.9615993499755859
+    - StartTime: 207239.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 207252
+      Multiplier: 0.72177970409393311
+    - StartTime: 207264.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 207277
+      Multiplier: 0.17590697109699249
+    - StartTime: 207289.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 207302
+      Multiplier: 0.042870786041021347
+    - StartTime: 207314.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 207327
+      Multiplier: 0.010448159649968147
+    - StartTime: 207339.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 207352
+      Multiplier: 0.002546350471675396
+    - StartTime: 207364.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 207377
+      Multiplier: 0.00062057829927653074
+    - StartTime: 207389.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 207401.984375
+      Multiplier: -6400
+    - StartTime: 207402
+      Multiplier: 2397.790771484375
+    - StartTime: 207402.015625
+      Multiplier: -2.2092599868774414
+    - StartTime: 207414.5
+      Multiplier: -0.58235466480255127
+    - StartTime: 207427
+      Multiplier: -0.15350700914859772
+    - StartTime: 207439.5
+      Multiplier: -0.040464010089635849
+    - StartTime: 207452
+      Multiplier: -0.010666197165846825
+    - StartTime: 207464.5
+      Multiplier: -0.0028115790337324142
+    - StartTime: 207477
+      Multiplier: -0.00074112421134486794
+    - StartTime: 207489.5
+      Multiplier: -0.00019535821047611535
+    - StartTime: 207501.984375
+      Multiplier: 4799.99951171875
+    - StartTime: 207502
+      Multiplier: 9.1140031814575195
+    - StartTime: 207502.015625
+      Multiplier: 9.1140031814575195
+    - StartTime: 207514.5
+      Multiplier: 4.4993352890014648
+    - StartTime: 207527
+      Multiplier: 2.2211995124816895
+    - StartTime: 207539.5
+      Multiplier: 1.0965456962585449
+    - StartTime: 207552
+      Multiplier: 0.54133474826812744
+    - StartTime: 207564.5
+      Multiplier: 0.26724225282669067
+    - StartTime: 207577
+      Multiplier: 0.13193023204803467
+    - StartTime: 207589.5
+      Multiplier: 0.065130367875099182
+    - StartTime: 207602
+      Multiplier: 0.032153088599443436
+    - StartTime: 207614.5
+      Multiplier: 0.015873104333877563
+    - StartTime: 207627
+      Multiplier: 0.0078361202031373978
+    - StartTime: 207639.5
+      Multiplier: 0.0038684792816638947
+    - StartTime: 207652
+      Multiplier: 0.001909762853756547
+    - StartTime: 207664.5
+      Multiplier: 0.00094279798213392496
+    - StartTime: 207677
+      Multiplier: 0.00046543372445739806
+    - StartTime: 207689.5
+      Multiplier: 0.00022977194748818874
+    - StartTime: 207701.984375
+      Multiplier: -4800
+    - StartTime: 207702
+      Multiplier: 2397.790771484375
+    - StartTime: 207702.015625
+      Multiplier: -2.2092599868774414
+    - StartTime: 207714.5
+      Multiplier: -0.58235466480255127
+    - StartTime: 207727
+      Multiplier: -0.15350700914859772
+    - StartTime: 207739.5
+      Multiplier: -0.040464010089635849
+    - StartTime: 207752
+      Multiplier: -0.010666197165846825
+    - StartTime: 207764.5
+      Multiplier: -0.0028115790337324142
+    - StartTime: 207777
+      Multiplier: -0.00074112421134486794
+    - StartTime: 207789.5
+      Multiplier: -0.00019535821047611535
+    - StartTime: 207801.984375
+      Multiplier: 4799.99951171875
+    - StartTime: 207802
+      Multiplier: 12.152004241943359
+    - StartTime: 207802.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 207814.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 207827
+      Multiplier: 2.9615993499755859
+    - StartTime: 207839.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 207852
+      Multiplier: 0.72177970409393311
+    - StartTime: 207864.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 207877
+      Multiplier: 0.17590697109699249
+    - StartTime: 207889.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 207902
+      Multiplier: 0.042870786041021347
+    - StartTime: 207914.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 207927
+      Multiplier: 0.010448159649968147
+    - StartTime: 207939.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 207952
+      Multiplier: 0.002546350471675396
+    - StartTime: 207964.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 207977
+      Multiplier: 0.00062057829927653074
+    - StartTime: 207989.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 208001.984375
+      Multiplier: -6400
+    - StartTime: 208002
+      Multiplier: 1
+    - StartTime: 208802
+      Multiplier: 12.152004241943359
+    - StartTime: 208802.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 208814.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 208827
+      Multiplier: 2.9615993499755859
+    - StartTime: 208839.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 208852
+      Multiplier: 0.72177970409393311
+    - StartTime: 208864.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 208877
+      Multiplier: 0.17590697109699249
+    - StartTime: 208889.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 208902
+      Multiplier: 0.042870786041021347
+    - StartTime: 208914.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 208927
+      Multiplier: 0.010448159649968147
+    - StartTime: 208939.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 208952
+      Multiplier: 0.002546350471675396
+    - StartTime: 208964.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 208977
+      Multiplier: 0.00062057829927653074
+    - StartTime: 208989.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 209001.984375
+      Multiplier: -6400
+    - StartTime: 209002
+      Multiplier: 1598.5272216796875
+    - StartTime: 209002.015625
+      Multiplier: -1.4728400707244873
+    - StartTime: 209014.5
+      Multiplier: -0.38823643326759338
+    - StartTime: 209027
+      Multiplier: -0.10233800858259201
+    - StartTime: 209039.5
+      Multiplier: -0.026976006105542183
+    - StartTime: 209052
+      Multiplier: -0.0071107982657849789
+    - StartTime: 209064.5
+      Multiplier: -0.0018743859836831689
+    - StartTime: 209077
+      Multiplier: -0.0004940828075632453
+    - StartTime: 209089.5
+      Multiplier: -0.00013023881183471531
+    - StartTime: 209101.984375
+      Multiplier: 3199.999755859375
+    - StartTime: 209102
+      Multiplier: 12.152004241943359
+    - StartTime: 209102.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 209114.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 209127
+      Multiplier: 2.9615993499755859
+    - StartTime: 209139.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 209152
+      Multiplier: 0.72177970409393311
+    - StartTime: 209164.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 209177
+      Multiplier: 0.17590697109699249
+    - StartTime: 209189.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 209202
+      Multiplier: 0.042870786041021347
+    - StartTime: 209214.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 209227
+      Multiplier: 0.010448159649968147
+    - StartTime: 209239.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 209252
+      Multiplier: 0.002546350471675396
+    - StartTime: 209264.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 209277
+      Multiplier: 0.00062057829927653074
+    - StartTime: 209289.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 209301.984375
+      Multiplier: -6400
+    - StartTime: 209302
+      Multiplier: 1598.5272216796875
+    - StartTime: 209302.015625
+      Multiplier: -1.4728400707244873
+    - StartTime: 209314.5
+      Multiplier: -0.38823643326759338
+    - StartTime: 209327
+      Multiplier: -0.10233800858259201
+    - StartTime: 209339.5
+      Multiplier: -0.026976006105542183
+    - StartTime: 209352
+      Multiplier: -0.0071107982657849789
+    - StartTime: 209364.5
+      Multiplier: -0.0018743859836831689
+    - StartTime: 209377
+      Multiplier: -0.0004940828075632453
+    - StartTime: 209389.5
+      Multiplier: -0.00013023881183471531
+    - StartTime: 209401.984375
+      Multiplier: 3199.999755859375
+    - StartTime: 209402
+      Multiplier: 12.152004241943359
+    - StartTime: 209402.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 209414.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 209427
+      Multiplier: 2.9615993499755859
+    - StartTime: 209439.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 209452
+      Multiplier: 0.72177970409393311
+    - StartTime: 209464.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 209477
+      Multiplier: 0.17590697109699249
+    - StartTime: 209489.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 209502
+      Multiplier: 0.042870786041021347
+    - StartTime: 209514.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 209527
+      Multiplier: 0.010448159649968147
+    - StartTime: 209539.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 209552
+      Multiplier: 0.002546350471675396
+    - StartTime: 209564.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 209577
+      Multiplier: 0.00062057829927653074
+    - StartTime: 209589.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 209601.984375
+      Multiplier: -6400
+    - StartTime: 209602
+      Multiplier: 1
+    - StartTime: 212002
+      Multiplier: 12.152004241943359
+    - StartTime: 212002.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 212014.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 212027
+      Multiplier: 2.9615993499755859
+    - StartTime: 212039.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 212052
+      Multiplier: 0.72177970409393311
+    - StartTime: 212064.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 212077
+      Multiplier: 0.17590697109699249
+    - StartTime: 212089.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 212102
+      Multiplier: 0.042870786041021347
+    - StartTime: 212114.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 212127
+      Multiplier: 0.010448159649968147
+    - StartTime: 212139.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 212152
+      Multiplier: 0.002546350471675396
+    - StartTime: 212164.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 212177
+      Multiplier: 0.00062057829927653074
+    - StartTime: 212189.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 212201.984375
+      Multiplier: -6400
+    - StartTime: 212202
+      Multiplier: 799.26361083984375
+    - StartTime: 212202.015625
+      Multiplier: -0.73642003536224365
+    - StartTime: 212214.5
+      Multiplier: -0.19411821663379669
+    - StartTime: 212227
+      Multiplier: -0.051169004291296005
+    - StartTime: 212239.5
+      Multiplier: -0.013488003052771091
+    - StartTime: 212252
+      Multiplier: -0.0035553991328924894
+    - StartTime: 212264.5
+      Multiplier: -0.00093719299184158444
+    - StartTime: 212277
+      Multiplier: -0.00024704140378162265
+    - StartTime: 212289.5
+      Multiplier: -6.5119405917357653E-05
+    - StartTime: 212301.984375
+      Multiplier: 1599.9998779296875
+    - StartTime: 212302
+      Multiplier: 12.152004241943359
+    - StartTime: 212302.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 212314.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 212327
+      Multiplier: 2.9615993499755859
+    - StartTime: 212339.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 212352
+      Multiplier: 0.72177970409393311
+    - StartTime: 212364.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 212377
+      Multiplier: 0.17590697109699249
+    - StartTime: 212389.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 212402
+      Multiplier: 0.042870786041021347
+    - StartTime: 212414.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 212427
+      Multiplier: 0.010448159649968147
+    - StartTime: 212439.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 212452
+      Multiplier: 0.002546350471675396
+    - StartTime: 212464.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 212477
+      Multiplier: 0.00062057829927653074
+    - StartTime: 212489.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 212501.984375
+      Multiplier: -6400
+    - StartTime: 212502
+      Multiplier: 799.26361083984375
+    - StartTime: 212502.015625
+      Multiplier: -0.73642003536224365
+    - StartTime: 212514.5
+      Multiplier: -0.19411821663379669
+    - StartTime: 212527
+      Multiplier: -0.051169004291296005
+    - StartTime: 212539.5
+      Multiplier: -0.013488003052771091
+    - StartTime: 212552
+      Multiplier: -0.0035553991328924894
+    - StartTime: 212564.5
+      Multiplier: -0.00093719299184158444
+    - StartTime: 212577
+      Multiplier: -0.00024704140378162265
+    - StartTime: 212589.5
+      Multiplier: -6.5119405917357653E-05
+    - StartTime: 212601.984375
+      Multiplier: 1599.9998779296875
+    - StartTime: 212602
+      Multiplier: 12.152004241943359
+    - StartTime: 212602.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 212614.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 212627
+      Multiplier: 2.9615993499755859
+    - StartTime: 212639.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 212652
+      Multiplier: 0.72177970409393311
+    - StartTime: 212664.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 212677
+      Multiplier: 0.17590697109699249
+    - StartTime: 212689.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 212702
+      Multiplier: 0.042870786041021347
+    - StartTime: 212714.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 212727
+      Multiplier: 0.010448159649968147
+    - StartTime: 212739.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 212752
+      Multiplier: 0.002546350471675396
+    - StartTime: 212764.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 212777
+      Multiplier: 0.00062057829927653074
+    - StartTime: 212789.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 212801.984375
+      Multiplier: -6400
+    - StartTime: 212802
+      Multiplier: 1
+    - StartTime: 213602
+      Multiplier: 12.152004241943359
+    - StartTime: 213602.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 213614.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 213627
+      Multiplier: 2.9615993499755859
+    - StartTime: 213639.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 213652
+      Multiplier: 0.72177970409393311
+    - StartTime: 213664.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 213677
+      Multiplier: 0.17590697109699249
+    - StartTime: 213689.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 213702
+      Multiplier: 0.042870786041021347
+    - StartTime: 213714.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 213727
+      Multiplier: 0.010448159649968147
+    - StartTime: 213739.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 213752
+      Multiplier: 0.002546350471675396
+    - StartTime: 213764.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 213777
+      Multiplier: 0.00062057829927653074
+    - StartTime: 213789.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 213801.984375
+      Multiplier: -6400
+    - StartTime: 213802
+    - StartTime: 213802.015625
+    - StartTime: 213814.5
+    - StartTime: 213827
+    - StartTime: 213839.5
+    - StartTime: 213852
+    - StartTime: 213864.5
+    - StartTime: 213877
+    - StartTime: 213889.5
+    - StartTime: 213901.984375
+    - StartTime: 213902
+      Multiplier: 12.152004241943359
+    - StartTime: 213902.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 213914.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 213927
+      Multiplier: 2.9615993499755859
+    - StartTime: 213939.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 213952
+      Multiplier: 0.72177970409393311
+    - StartTime: 213964.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 213977
+      Multiplier: 0.17590697109699249
+    - StartTime: 213989.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 214002
+      Multiplier: 0.042870786041021347
+    - StartTime: 214014.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 214027
+      Multiplier: 0.010448159649968147
+    - StartTime: 214039.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 214052
+      Multiplier: 0.002546350471675396
+    - StartTime: 214064.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 214077
+      Multiplier: 0.00062057829927653074
+    - StartTime: 214089.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 214101.984375
+      Multiplier: -6400
+    - StartTime: 214102
+    - StartTime: 214102.015625
+    - StartTime: 214114.5
+    - StartTime: 214127
+    - StartTime: 214139.5
+    - StartTime: 214152
+    - StartTime: 214164.5
+    - StartTime: 214177
+    - StartTime: 214189.5
+    - StartTime: 214201.984375
+    - StartTime: 214202
+      Multiplier: 12.152004241943359
+    - StartTime: 214202.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 214214.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 214227
+      Multiplier: 2.9615993499755859
+    - StartTime: 214239.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 214252
+      Multiplier: 0.72177970409393311
+    - StartTime: 214264.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 214277
+      Multiplier: 0.17590697109699249
+    - StartTime: 214289.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 214302
+      Multiplier: 0.042870786041021347
+    - StartTime: 214314.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 214327
+      Multiplier: 0.010448159649968147
+    - StartTime: 214339.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 214352
+      Multiplier: 0.002546350471675396
+    - StartTime: 214364.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 214377
+      Multiplier: 0.00062057829927653074
+    - StartTime: 214389.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 214401.984375
+      Multiplier: -6400
+    - StartTime: 214402
+      Multiplier: 12.152004241943359
+    - StartTime: 214402.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 214414.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 214427
+      Multiplier: 2.9615993499755859
+    - StartTime: 214439.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 214452
+      Multiplier: 0.72177970409393311
+    - StartTime: 214464.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 214477
+      Multiplier: 0.17590697109699249
+    - StartTime: 214489.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 214502
+      Multiplier: 0.042870786041021347
+    - StartTime: 214514.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 214527
+      Multiplier: 0.010448159649968147
+    - StartTime: 214539.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 214552
+      Multiplier: 0.002546350471675396
+    - StartTime: 214564.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 214577
+      Multiplier: 0.00062057829927653074
+    - StartTime: 214589.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 214601.984375
+      Multiplier: -6400
+    - StartTime: 214602
+    - StartTime: 214602.015625
+    - StartTime: 214614.5
+    - StartTime: 214627
+    - StartTime: 214639.5
+    - StartTime: 214652
+    - StartTime: 214664.5
+    - StartTime: 214677
+    - StartTime: 214689.5
+    - StartTime: 214701.984375
+    - StartTime: 214702
+      Multiplier: 12.152004241943359
+    - StartTime: 214702.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 214714.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 214727
+      Multiplier: 2.9615993499755859
+    - StartTime: 214739.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 214752
+      Multiplier: 0.72177970409393311
+    - StartTime: 214764.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 214777
+      Multiplier: 0.17590697109699249
+    - StartTime: 214789.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 214802
+      Multiplier: 0.042870786041021347
+    - StartTime: 214814.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 214827
+      Multiplier: 0.010448159649968147
+    - StartTime: 214839.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 214852
+      Multiplier: 0.002546350471675396
+    - StartTime: 214864.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 214877
+      Multiplier: 0.00062057829927653074
+    - StartTime: 214889.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 214901.984375
+      Multiplier: -6400
+    - StartTime: 214902
+    - StartTime: 214902.015625
+    - StartTime: 214914.5
+    - StartTime: 214927
+    - StartTime: 214939.5
+    - StartTime: 214952
+    - StartTime: 214964.5
+    - StartTime: 214977
+    - StartTime: 214989.5
+    - StartTime: 215001.984375
+    - StartTime: 215002
+      Multiplier: 12.152004241943359
+    - StartTime: 215002.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 215014.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 215027
+      Multiplier: 2.9615993499755859
+    - StartTime: 215039.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 215052
+      Multiplier: 0.72177970409393311
+    - StartTime: 215064.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 215077
+      Multiplier: 0.17590697109699249
+    - StartTime: 215089.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 215102
+      Multiplier: 0.042870786041021347
+    - StartTime: 215114.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 215127
+      Multiplier: 0.010448159649968147
+    - StartTime: 215139.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 215152
+      Multiplier: 0.002546350471675396
+    - StartTime: 215164.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 215177
+      Multiplier: 0.00062057829927653074
+    - StartTime: 215189.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 215201.984375
+      Multiplier: -6400
+    - StartTime: 215202
+      Multiplier: 12.152004241943359
+    - StartTime: 215202.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 215214.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 215227
+      Multiplier: 2.9615993499755859
+    - StartTime: 215239.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 215252
+      Multiplier: 0.72177970409393311
+    - StartTime: 215264.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 215277
+      Multiplier: 0.17590697109699249
+    - StartTime: 215289.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 215302
+      Multiplier: 0.042870786041021347
+    - StartTime: 215314.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 215327
+      Multiplier: 0.010448159649968147
+    - StartTime: 215339.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 215352
+      Multiplier: 0.002546350471675396
+    - StartTime: 215364.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 215377
+      Multiplier: 0.00062057829927653074
+    - StartTime: 215389.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 215401.984375
+      Multiplier: -6400
+    - StartTime: 215402
+      Multiplier: 12.152004241943359
+    - StartTime: 215402.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 215414.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 215427
+      Multiplier: 2.9615993499755859
+    - StartTime: 215439.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 215452
+      Multiplier: 0.72177970409393311
+    - StartTime: 215464.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 215477
+      Multiplier: 0.17590697109699249
+    - StartTime: 215489.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 215502
+      Multiplier: 0.042870786041021347
+    - StartTime: 215514.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 215527
+      Multiplier: 0.010448159649968147
+    - StartTime: 215539.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 215552
+      Multiplier: 0.002546350471675396
+    - StartTime: 215564.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 215577
+      Multiplier: 0.00062057829927653074
+    - StartTime: 215589.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 215601.984375
+      Multiplier: -6400
+    - StartTime: 215602
+      Multiplier: 12.152004241943359
+    - StartTime: 215602.015625
+      Multiplier: 12.152004241943359
+    - StartTime: 215614.5
+      Multiplier: 5.9991140365600586
+    - StartTime: 215627
+      Multiplier: 2.9615993499755859
+    - StartTime: 215639.5
+      Multiplier: 1.4620609283447266
+    - StartTime: 215652
+      Multiplier: 0.72177970409393311
+    - StartTime: 215664.5
+      Multiplier: 0.3563230037689209
+    - StartTime: 215677
+      Multiplier: 0.17590697109699249
+    - StartTime: 215689.5
+      Multiplier: 0.086840488016605377
+    - StartTime: 215702
+      Multiplier: 0.042870786041021347
+    - StartTime: 215714.5
+      Multiplier: 0.021164139732718468
+    - StartTime: 215727
+      Multiplier: 0.010448159649968147
+    - StartTime: 215739.5
+      Multiplier: 0.0051579722203314304
+    - StartTime: 215752
+      Multiplier: 0.002546350471675396
+    - StartTime: 215764.5
+      Multiplier: 0.0012570639373734593
+    - StartTime: 215777
+      Multiplier: 0.00062057829927653074
+    - StartTime: 215789.5
+      Multiplier: 0.00030636260635219514
+    - StartTime: 215801.984375
+      Multiplier: -6400
+    - StartTime: 215802
+      Multiplier: 0.0012725564884021878
+    - StartTime: 215804.09375
+      Multiplier: -0.17696313560009003
+    - StartTime: 215804.125
+      Multiplier: 0.0012725564884021878
+    - StartTime: 215815.09375
+      Multiplier: 0.17696313560009003
+    - StartTime: 215815.125
+      Multiplier: 0.0012725564884021878
+    - StartTime: 215817.625
+      Multiplier: 0.0014392250450327992
+    - StartTime: 215826.09375
+      Multiplier: -22.775022506713867
+    - StartTime: 215826.125
+      Multiplier: 0.0014392250450327992
+    - StartTime: 215833.25
+      Multiplier: 0.0016277222894132137
+    - StartTime: 215837.09375
+      Multiplier: 22.775022506713867
+    - StartTime: 215837.125
+      Multiplier: 0.0014392250450327992
+    - StartTime: 215848.09375
+      Multiplier: -81.293601989746094
+    - StartTime: 215848.125
+      Multiplier: 0.0016277222894132137
+    - StartTime: 215848.875
+      Multiplier: 0.0018409074982628226
+    - StartTime: 215859.09375
+      Multiplier: 81.293601989746094
+    - StartTime: 215859.125
+      Multiplier: 0.0016277222894132137
+    - StartTime: 215864.5
+      Multiplier: 0.0020820137578994036
+    - StartTime: 215870.09375
+      Multiplier: -172.76974487304688
+    - StartTime: 215870.125
+      Multiplier: 0.0020820137578994036
+    - StartTime: 215880.125
+      Multiplier: 0.0023546980228275061
+    - StartTime: 215881.09375
+      Multiplier: 172.76974487304688
+    - StartTime: 215881.125
+      Multiplier: 0.0020820137578994036
+    - StartTime: 215892.09375
+      Multiplier: -294.08245849609375
+    - StartTime: 215892.125
+      Multiplier: 0.0023546980228275061
+    - StartTime: 215895.75
+      Multiplier: 0.0026630961801856756
+    - StartTime: 215903.09375
+      Multiplier: 294.08245849609375
+    - StartTime: 215903.125
+      Multiplier: 0.0023546980228275061
+    - StartTime: 215911.375
+      Multiplier: 0.0030118855647742748
+    - StartTime: 215914.09375
+      Multiplier: -442.018310546875
+    - StartTime: 215914.125
+      Multiplier: 0.0030118855647742748
+    - StartTime: 215925.09375
+      Multiplier: 442.018310546875
+    - StartTime: 215925.125
+      Multiplier: 0.0030118855647742748
+    - StartTime: 215927
+      Multiplier: 0.0034063565544784069
+    - StartTime: 215936.09375
+      Multiplier: -613.33013916015625
+    - StartTime: 215936.125
+      Multiplier: 0.0034063565544784069
+    - StartTime: 215942.625
+      Multiplier: 0.003852491732686758
+    - StartTime: 215947.09375
+      Multiplier: 613.33013916015625
+    - StartTime: 215947.125
+      Multiplier: 0.0034063565544784069
+    - StartTime: 215958.09375
+      Multiplier: -804.788818359375
+    - StartTime: 215958.125
+      Multiplier: 0.003852491732686758
+    - StartTime: 215958.25
+      Multiplier: 0.0043570580892264843
+    - StartTime: 215969.09375
+      Multiplier: 804.788818359375
+    - StartTime: 215969.125
+      Multiplier: 0.003852491732686758
+    - StartTime: 215973.875
+      Multiplier: 0.0049277083016932011
+    - StartTime: 215980.09375
+      Multiplier: -1013.2280883789062
+    - StartTime: 215980.125
+      Multiplier: 0.0049277083016932011
+    - StartTime: 215989.5
+      Multiplier: 0.00557309715077281
+    - StartTime: 215991.09375
+      Multiplier: 1013.2280883789062
+    - StartTime: 215991.125
+      Multiplier: 0.0049277083016932011
+    - StartTime: 216002.09375
+      Multiplier: -1235.5826416015625
+    - StartTime: 216002.125
+      Multiplier: 0.00557309715077281
+    - StartTime: 216005.125
+      Multiplier: 0.006303013302385807
+    - StartTime: 216013.09375
+      Multiplier: 1235.5826416015625
+    - StartTime: 216013.125
+      Multiplier: 0.00557309715077281
+    - StartTime: 216020.75
+      Multiplier: 0.007128528319299221
+    - StartTime: 216024.09375
+      Multiplier: -1468.919921875
+    - StartTime: 216024.125
+      Multiplier: 0.007128528319299221
+    - StartTime: 216035.09375
+      Multiplier: 1468.919921875
+    - StartTime: 216035.125
+      Multiplier: 0.007128528319299221
+    - StartTime: 216036.375
+      Multiplier: 0.0080621615052223206
+    - StartTime: 216046.09375
+      Multiplier: -1710.4654541015625
+    - StartTime: 216046.125
+      Multiplier: 0.0080621615052223206
+    - StartTime: 216052
+      Multiplier: 0.0091180745512247086
+    - StartTime: 216057.09375
+      Multiplier: 1710.4654541015625
+    - StartTime: 216057.125
+      Multiplier: 0.0080621615052223206
+    - StartTime: 216067.625
+      Multiplier: 0.010312281548976898
+    - StartTime: 216068.09375
+      Multiplier: -1957.622802734375
+    - StartTime: 216068.125
+      Multiplier: 0.010312281548976898
+    - StartTime: 216079.09375
+      Multiplier: 1957.622802734375
+    - StartTime: 216079.125
+      Multiplier: 0.010312281548976898
+    - StartTime: 216083.25
+      Multiplier: 0.011662895791232586
+    - StartTime: 216090.09375
+      Multiplier: -2207.988037109375
+    - StartTime: 216090.125
+      Multiplier: 0.011662895791232586
+    - StartTime: 216098.875
+      Multiplier: 0.013190401718020439
+    - StartTime: 216101.09375
+      Multiplier: 2207.988037109375
+    - StartTime: 216101.125
+      Multiplier: 0.011662895791232586
+    - StartTime: 216112.09375
+      Multiplier: -2459.359375
+    - StartTime: 216112.125
+      Multiplier: 0.013190401718020439
+    - StartTime: 216114.5
+      Multiplier: 0.014917966909706593
+    - StartTime: 216123.09375
+      Multiplier: 2459.359375
+    - StartTime: 216123.125
+      Multiplier: 0.013190401718020439
+    - StartTime: 216130.125
+      Multiplier: 0.016871795058250427
+    - StartTime: 216134.09375
+      Multiplier: -2709.743408203125
+    - StartTime: 216134.125
+      Multiplier: 0.016871795058250427
+    - StartTime: 216145.09375
+      Multiplier: 2709.743408203125
+    - StartTime: 216145.125
+      Multiplier: 0.016871795058250427
+    - StartTime: 216145.75
+      Multiplier: 0.019081516191363335
+    - StartTime: 216156.09375
+      Multiplier: -2957.355224609375
+    - StartTime: 216156.125
+      Multiplier: 0.019081516191363335
+    - StartTime: 216161.375
+      Multiplier: 0.0215806495398283
+    - StartTime: 216167.09375
+      Multiplier: 2957.355224609375
+    - StartTime: 216167.125
+      Multiplier: 0.019081516191363335
+    - StartTime: 216177
+      Multiplier: 0.024407098069787025
+    - StartTime: 216178.09375
+      Multiplier: -3200.61865234375
+    - StartTime: 216178.125
+      Multiplier: 0.024407098069787025
+    - StartTime: 216189.09375
+      Multiplier: 3200.61865234375
+    - StartTime: 216189.125
+      Multiplier: 0.024407098069787025
+    - StartTime: 216192.625
+      Multiplier: 0.02760373055934906
+    - StartTime: 216200.09375
+      Multiplier: -3438.160400390625
+    - StartTime: 216200.125
+      Multiplier: 0.02760373055934906
+    - StartTime: 216208.25
+      Multiplier: 0.031219029799103737
+    - StartTime: 216211.09375
+      Multiplier: 3438.160400390625
+    - StartTime: 216211.125
+      Multiplier: 0.02760373055934906
+    - StartTime: 216222.09375
+      Multiplier: -3668.803955078125
+    - StartTime: 216222.125
+      Multiplier: 0.031219029799103737
+    - StartTime: 216223.875
+      Multiplier: 0.035307832062244415
+    - StartTime: 216233.09375
+      Multiplier: 3668.803955078125
+    - StartTime: 216233.125
+      Multiplier: 0.031219029799103737
+    - StartTime: 216239.5
+      Multiplier: 0.039932146668434143
+    - StartTime: 216244.09375
+      Multiplier: -3891.56005859375
+    - StartTime: 216244.125
+      Multiplier: 0.039932146668434143
+    - StartTime: 216255.09375
+      Multiplier: 3891.56005859375
+    - StartTime: 216255.125
+      Multiplier: 0.039932146668434143
+    - StartTime: 216255.125
+      Multiplier: 0.045162118971347809
+    - StartTime: 216266.09375
+      Multiplier: -4105.61669921875
+    - StartTime: 216266.125
+      Multiplier: 0.045162118971347809
+    - StartTime: 216270.75
+      Multiplier: 0.051077064126729965
+    - StartTime: 216277.09375
+      Multiplier: 4105.61669921875
+    - StartTime: 216277.125
+      Multiplier: 0.045162118971347809
+    - StartTime: 216286.375
+      Multiplier: 0.05776669830083847
+    - StartTime: 216288.09375
+      Multiplier: -4310.328125
+    - StartTime: 216288.125
+      Multiplier: 0.05776669830083847
+    - StartTime: 216299.09375
+      Multiplier: 4310.328125
+    - StartTime: 216299.125
+      Multiplier: 0.05776669830083847
+    - StartTime: 216302
+      Multiplier: 0.065332487225532532
+    - StartTime: 216310.09375
+      Multiplier: -4505.20068359375
+    - StartTime: 216310.125
+      Multiplier: 0.065332487225532532
+    - StartTime: 216317.625
+      Multiplier: 0.073889173567295074
+    - StartTime: 216321.09375
+      Multiplier: 4505.20068359375
+    - StartTime: 216321.125
+      Multiplier: 0.065332487225532532
+    - StartTime: 216332.09375
+      Multiplier: -4689.880859375
+    - StartTime: 216332.125
+      Multiplier: 0.073889173567295074
+    - StartTime: 216333.25
+      Multiplier: 0.083566546440124512
+    - StartTime: 216343.09375
+      Multiplier: 4689.880859375
+    - StartTime: 216343.125
+      Multiplier: 0.073889173567295074
+    - StartTime: 216348.875
+      Multiplier: 0.094511374831199646
+    - StartTime: 216354.09375
+      Multiplier: -4864.1416015625
+    - StartTime: 216354.125
+      Multiplier: 0.094511374831199646
+    - StartTime: 216364.5
+      Multiplier: 0.10688965767621994
+    - StartTime: 216365.09375
+      Multiplier: 4864.1416015625
+    - StartTime: 216365.125
+      Multiplier: 0.094511374831199646
+    - StartTime: 216376.09375
+      Multiplier: -5027.8681640625
+    - StartTime: 216376.125
+      Multiplier: 0.10688965767621994
+    - StartTime: 216380.125
+      Multiplier: 0.12088914960622787
+    - StartTime: 216387.09375
+      Multiplier: 5027.8681640625
+    - StartTime: 216387.125
+      Multiplier: 0.10688965767621994
+    - StartTime: 216395.75
+      Multiplier: 0.13672217726707458
+    - StartTime: 216398.09375
+      Multiplier: -5181.04541015625
+    - StartTime: 216398.125
+      Multiplier: 0.13672217726707458
+    - StartTime: 216409.09375
+      Multiplier: 5181.04541015625
+    - StartTime: 216409.125
+      Multiplier: 0.13672217726707458
+    - StartTime: 216411.375
+      Multiplier: 0.15462887287139893
+    - StartTime: 216420.09375
+      Multiplier: -5323.744140625
+    - StartTime: 216420.125
+      Multiplier: 0.15462887287139893
+    - StartTime: 216427
+      Multiplier: 0.17488083243370056
+    - StartTime: 216431.09375
+      Multiplier: 5323.744140625
+    - StartTime: 216431.125
+      Multiplier: 0.15462887287139893
+    - StartTime: 216442.09375
+      Multiplier: -5456.1064453125
+    - StartTime: 216442.125
+      Multiplier: 0.17488083243370056
+    - StartTime: 216442.625
+      Multiplier: 0.19778522849082947
+    - StartTime: 216453.09375
+      Multiplier: 5456.1064453125
+    - StartTime: 216453.125
+      Multiplier: 0.17488083243370056
+    - StartTime: 216458.25
+      Multiplier: 0.22368943691253662
+    - StartTime: 216464.09375
+      Multiplier: -5578.33740234375
+    - StartTime: 216464.125
+      Multiplier: 0.22368943691253662
+    - StartTime: 216473.875
+      Multiplier: 0.25298634171485901
+    - StartTime: 216475.09375
+      Multiplier: 5578.33740234375
+    - StartTime: 216475.125
+      Multiplier: 0.22368943691253662
+    - StartTime: 216486.09375
+      Multiplier: -5690.6875
+    - StartTime: 216486.125
+      Multiplier: 0.25298634171485901
+    - StartTime: 216489.5
+      Multiplier: 0.28612032532691956
+    - StartTime: 216497.09375
+      Multiplier: 5690.6875
+    - StartTime: 216497.125
+      Multiplier: 0.25298634171485901
+    - StartTime: 216505.125
+      Multiplier: 0.32359391450881958
+    - StartTime: 216508.09375
+      Multiplier: -5793.44677734375
+    - StartTime: 216508.125
+      Multiplier: 0.32359391450881958
+    - StartTime: 216519.09375
+      Multiplier: 5793.44677734375
+    - StartTime: 216519.125
+      Multiplier: 0.32359391450881958
+    - StartTime: 216520.75
+      Multiplier: 0.36597546935081482
+    - StartTime: 216530.09375
+      Multiplier: -5886.93115234375
+    - StartTime: 216530.125
+      Multiplier: 0.36597546935081482
+    - StartTime: 216536.375
+      Multiplier: 0.41390779614448547
+    - StartTime: 216541.09375
+      Multiplier: 5886.93115234375
+    - StartTime: 216541.125
+      Multiplier: 0.36597546935081482
+    - StartTime: 216552
+      Multiplier: 0.46811789274215698
+    - StartTime: 216552.09375
+      Multiplier: -5971.47314453125
+    - StartTime: 216552.125
+      Multiplier: 0.46811789274215698
+    - StartTime: 216563.09375
+      Multiplier: 5971.47314453125
+    - StartTime: 216563.125
+      Multiplier: 0.46811789274215698
+    - StartTime: 216567.625
+      Multiplier: 0.52942794561386108
+    - StartTime: 216574.09375
+      Multiplier: -6047.412109375
+    - StartTime: 216574.125
+      Multiplier: 0.52942794561386108
+    - StartTime: 216583.25
+      Multiplier: 0.59876787662506104
+    - StartTime: 216585.09375
+      Multiplier: 6047.412109375
+    - StartTime: 216585.125
+      Multiplier: 0.52942794561386108
+    - StartTime: 216596.09375
+      Multiplier: -6115.0888671875
+    - StartTime: 216596.125
+      Multiplier: 0.59876787662506104
+    - StartTime: 216598.875
+      Multiplier: 0.67718935012817383
+    - StartTime: 216607.09375
+      Multiplier: 6115.0888671875
+    - StartTime: 216607.125
+      Multiplier: 0.59876787662506104
+    - StartTime: 216614.5
+      Multiplier: 0.76588177680969238
+    - StartTime: 216618.09375
+      Multiplier: -6174.833984375
+    - StartTime: 216618.125
+      Multiplier: 0.76588177680969238
+    - StartTime: 216629.09375
+      Multiplier: 6174.833984375
+    - StartTime: 216629.125
+      Multiplier: 0.76588177680969238
+    - StartTime: 216630.125
+      Multiplier: 0.86619043350219727
+    - StartTime: 216640.09375
+      Multiplier: -6226.9638671875
+    - StartTime: 216640.125
+      Multiplier: 0.86619043350219727
+    - StartTime: 216645.75
+      Multiplier: 0.97963660955429077
+    - StartTime: 216651.09375
+      Multiplier: 6226.9638671875
+    - StartTime: 216651.125
+      Multiplier: 0.86619043350219727
+    - StartTime: 216661.375
+      Multiplier: 1.1079410314559937
+    - StartTime: 216662.09375
+      Multiplier: -6271.77392578125
+    - StartTime: 216662.125
+      Multiplier: 1.1079410314559937
+    - StartTime: 216673.09375
+      Multiplier: 6271.77392578125
+    - StartTime: 216673.125
+      Multiplier: 1.1079410314559937
+    - StartTime: 216677
+      Multiplier: 1.2530496120452881
+    - StartTime: 216684.09375
+      Multiplier: -6309.533203125
+    - StartTime: 216684.125
+      Multiplier: 1.2530496120452881
+    - StartTime: 216692.625
+      Multiplier: 1.4171632528305054
+    - StartTime: 216695.09375
+      Multiplier: 6309.533203125
+    - StartTime: 216695.125
+      Multiplier: 1.2530496120452881
+    - StartTime: 216706.09375
+      Multiplier: -6340.478515625
+    - StartTime: 216706.125
+      Multiplier: 1.4171632528305054
+    - StartTime: 216708.25
+      Multiplier: 1.6027711629867554
+    - StartTime: 216717.09375
+      Multiplier: 6340.478515625
+    - StartTime: 216717.125
+      Multiplier: 1.4171632528305054
+    - StartTime: 216723.875
+      Multiplier: 1.8126883506774902
+    - StartTime: 216728.09375
+      Multiplier: -6364.81396484375
+    - StartTime: 216728.125
+      Multiplier: 1.8126883506774902
+    - StartTime: 216739.09375
+      Multiplier: 6364.81396484375
+    - StartTime: 216739.125
+      Multiplier: 1.8126883506774902
+    - StartTime: 216739.5
+      Multiplier: 2.0500986576080322
+    - StartTime: 216750.09375
+      Multiplier: -6382.70361328125
+    - StartTime: 216750.125
+      Multiplier: 2.0500986576080322
+    - StartTime: 216755.125
+      Multiplier: 2.3186030387878418
+    - StartTime: 216761.09375
+      Multiplier: 6382.70361328125
+    - StartTime: 216761.125
+      Multiplier: 2.0500986576080322
+    - StartTime: 216770.75
+      Multiplier: 2.6222739219665527
+    - StartTime: 216772.09375
+      Multiplier: -6394.27197265625
+    - StartTime: 216772.125
+      Multiplier: 2.6222739219665527
+    - StartTime: 216783.09375
+      Multiplier: 6394.27197265625
+    - StartTime: 216783.125
+      Multiplier: 2.6222739219665527
+    - StartTime: 216786.375
+      Multiplier: 2.9657168388366699
+    - StartTime: 216800
       Multiplier: 1
     - StartTime: 227202
       Multiplier: 4.7058300971984863
